@@ -4,4 +4,4 @@
 
 - - - - - - - - - - -
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-13) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-15)
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-14) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-16)
