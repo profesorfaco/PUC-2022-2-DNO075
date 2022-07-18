@@ -1,4 +1,4 @@
-# Evaluación Nº3 → Interrogación grupal por avance de investigación en subtemática y bocetaje
+# Evaluación Nº3 → Avance de investigación y bocetaje
 
 ### Clase 12 → 24/10/2022
 
