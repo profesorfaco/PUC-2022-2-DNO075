@@ -59,7 +59,7 @@ Clase 07 → 19/09/2022 → FERIADO
 
 [Clase 08 → 26/09/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-08) → HTML, SVG y CSS
 
-**[Clase 09 → 03/10/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-08) → Evaluación Nº2 → HTML, SVG y CSS**
+**[Clase 09 → 03/10/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-09) → Evaluación Nº2 → HTML, SVG y CSS**
 
 Clase 10 → 10/10/2022 → FERIADO
 
