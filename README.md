@@ -45,7 +45,7 @@ Clase 10 → 10/10/2022 → FERIADO
 
 [Clase 11 → 17/10/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-11) → Definición de temática, subtemáticas y grupos para el trabajo final
 
-**[Clase 12 → 24/10/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-12) → Evaluación Nº3 → Interrogación grupal por avance de investigación en subtemática y bocetaje** 
+**[Clase 12 → 24/10/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-12) → Evaluación Nº3 → Avance de investigación y bocetaje** 
 
 Clase 13 → 31/10/2022 → FERIADO
 
