@@ -84,14 +84,13 @@ Clase 13 → 31/10/2022 → FERIADO
 
 La calificación final de asignatura se basa en:
 
-- **Ejercicios a desarrollarse en clases ([1](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-01), [2](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-02), [3](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-03), [4](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-04), [5](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-05), [6](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-06) y [8](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-08))** → Puntaje acumulativo. Equivalente al 25% de la calificación final. 
+[Clase 06 → 12/09/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-06) → Evaluación Nº1 → Infografía con SVG en HTML
 
-- **Trabajo de aplicación ([clase 10](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-10))** → A evaluarse con pauta de cotejo. Equivale al 25% de la calificación final.
+[Clase 09 → 03/10/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-09) → Evaluación Nº2 → HTML, SVG y CSS
 
-- **Proceso de implementación de infografía digital (clases [11](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-11), [12](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-12), [13](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-13) y [14](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-14))** → Puntaje acumulativo. Equivalente al 25% de la calificación final. 
+[Clase 12 → 24/10/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-12) → Evaluación Nº3 → Interrogación grupal por avance de investigación en subtemática y bocetaje
 
-- **Entrega final de infografía digital ([clase 17](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-17))** → A evaluarse con pauta de cotejo. Equivale al 25% de la calificación final.
-
+[Clase 17 → 28/11/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-17) → Evaluación Nº4 → Entrega final
 
 - - - - - - - - - - 
 
