@@ -6,24 +6,6 @@
 
 Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que se interesen en la representación gráfica digital, interactiva y dinámica como medio de transmisión del conocimiento, con especial atención a los recientes avances de la narración visual impulsados desde el periodismo.
 
-- - - - - - - - - -
-
-### Herramientas
-
-Para el desarrollo del curso, cada estudiante debería contar con:
-
-- Computador
-
-- Dos navegadores web: Chrome y Firefox ¡No trabajaremos con Safari!
-
-- Una cuenta personal en [GitHub](https://github.com/join)
-
-- Un editor de código fuente ([Atom.io](https://atom.io/) o [Sublime Text](https://www.sublimetext.com/))
-
-- Un editor de gráficos vectoriales ([Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html) o [InkScape](https://inkscape.org/es/))
-
-- Un editor de gráficos rasterizados ([Adobe Photoshop](https://www.adobe.com/la/products/photoshop.html) o [GIMP](https://www.gimp.org/))
-
 
 - - - - - - - - - -
 
@@ -78,17 +60,22 @@ Clase 13 → 31/10/2022 → FERIADO
 
 - - - - - - - - - -
 
-### Evaluaciones
+### Herramientas
 
-La calificación final de asignatura se basa en:
+Para el desarrollo del curso, cada estudiante debería contar con:
 
-[Clase 06 → 12/09/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-06) → Evaluación Nº1 → Infografía con SVG en HTML
+- Computador
 
-[Clase 09 → 03/10/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-09) → Evaluación Nº2 → HTML, SVG y CSS
+- Dos navegadores web: Chrome y Firefox ¡No trabajaremos con Safari!
 
-[Clase 12 → 24/10/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-12) → Evaluación Nº3 → Interrogación grupal por avance de investigación en subtemática y bocetaje
+- Una cuenta personal en [GitHub](https://github.com/join)
 
-[Clase 17 → 28/11/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-17) → Evaluación Nº4 → Entrega final
+- Un editor de código fuente ([Atom.io](https://atom.io/) o [Sublime Text](https://www.sublimetext.com/))
+
+- Un editor de gráficos vectoriales ([Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html) o [InkScape](https://inkscape.org/es/))
+
+- Un editor de gráficos rasterizados ([Adobe Photoshop](https://www.adobe.com/la/products/photoshop.html) o [GIMP](https://www.gimp.org/))
+
 
 - - - - - - - - - - 
 
@@ -107,7 +94,7 @@ La calificación final de asignatura se basa en:
 - [MALOFIEJ AWARDS](https://www.malofiejgraphics.com/): The Pulitzers for infographics, organized by the Society for News Design Spain (SNDE).
 - [REUTERS INTERACTIVES](https://graphics.reuters.com/): A collection of recent work from the Reuters Graphics team.
 - [SCMP Infographics](https://www.scmp.com/infographic/): The Collection of graphics made by The South China Morning Post.
-- [SCMP Printed Graphics](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/)
+- [SCMP Printed Graphics](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/): Here are some of our favourite full-page infographics as they appeared in the newspaper.
 
 - - - - - - - - - -
 
