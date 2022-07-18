@@ -1,4 +1,4 @@
-# Gráficos con SVG
+# Implementación de gráficos con SVG
 
 ### Clase 14 → 07/11/2022
 
