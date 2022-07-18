@@ -69,9 +69,9 @@ Clase 10 → 10/10/2022 → FERIADO
 
 Clase 13 → 31/10/2022 → FERIADO
 
-[Clase 14 → 07/11/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-14) → Gráficos con SVG
+[Clase 14 → 07/11/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-14) → Implementación de gráficos con SVG
 
-[Clase 15 → 14/11/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-15) → Gráfico con SVG en HTML
+[Clase 15 → 14/11/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-15) → Despliegue de gráficos con SVG en HTML
 
 [Clase 16 → 21/11/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-16) → Mínimo viable de HTML, SVG y CSS
 
