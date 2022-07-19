@@ -14,12 +14,12 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 **Según [Calendario de Actividades Académicas y Estudiantiles 2022](https://admisionyregistros.uc.cl/noticias-alumnos/1711-calendario-academico-5), las clases del segundo semestre 2022 comienzan el día lunes 8 de agosto y finalizan el viernes 25 de noviembre**. Después viene el período de examenes de cursos mínimos y OPRs entre los días lunes 28 de noviembre y viernes 2 de diciembre. 
 
-Considerando los días lunes entre 8 de agosto y 28 de noviembre, conviene apuntar que:
+Considerando los días lunes entre 8 de agosto y 28 de noviembre, conviene apuntar los siguientes feriados:
 
-- el lunes **15 de agosto** es feriado legal (Asunción de la Santísima Virgen)
-- el lunes **19 de septiembre** es feriado legal (Día del ejército)
-- el lunes **10 de octubre** es feriado legal (Celebración del Día del Encuentro de Dos Mundos)
-- el lunes **31 de octubre** es feriado legal (Día de las Iglesias Evangélicas y Protestantes).
+- lunes **15 de agosto** (Asunción de la Santísima Virgen)
+- lunes **19 de septiembre** (Día del ejército)
+- lunes **10 de octubre** (Celebración del Día del Encuentro de Dos Mundos)
+- lunes **31 de octubre** (Día de las Iglesias Evangélicas y Protestantes).
 
 **Por todas las fechas recién mencionadas, resulta el siguiente clase a clase:**
 
