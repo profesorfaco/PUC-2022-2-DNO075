@@ -12,7 +12,7 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 ### Clase a Clase
 
 
-**Según [Calendario de Actividades Académicas y Estudiantiles 2022](https://admisionyregistros.uc.cl/noticias-alumnos/1711-calendario-academico-5), las clases del segundo semestre 2022 comienzan el día lunes 8 de agosto y finalizan el viernes 25 de noviembre**. Después viene el período de examenes de cursos mínimos y OPRs entre los días lunes 28 de noviembre y viernes 2 de diciembre. 
+**Según [Calendario de Actividades Académicas y Estudiantiles 2022](https://admisionyregistros.uc.cl/noticias-alumnos/1711-calendario-academico-5), las clases del segundo semestre comienzan el día lunes 8 de agosto y finalizan el viernes 25 de noviembre**. Después viene el período de examenes de cursos mínimos y OPRs entre los días lunes 28 de noviembre y viernes 2 de diciembre. 
 
 Considerando los días lunes entre 8 de agosto y 28 de noviembre, conviene apuntar los siguientes feriados:
 
