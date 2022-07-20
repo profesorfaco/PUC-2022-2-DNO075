@@ -33,13 +33,13 @@ Clase 02 → 15/08/2020 → FERIADO
 
 [Clase 05 → 05/09/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-05) → Infografías con SVG en HTML
 
-**[Clase 06 → 12/09/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-06) → Evaluación Nº1 → Infografía con SVG en HTML**
+**[Clase 06 → 12/09/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-06) → Evaluación Nº1 → Desafío de infografía con SVG en HTML**
 
 Clase 07 → 19/09/2022 → FERIADO
 
 [Clase 08 → 26/09/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-08) → HTML, SVG y CSS
 
-**[Clase 09 → 03/10/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-09) → Evaluación Nº2 → HTML, SVG y CSS**
+**[Clase 09 → 03/10/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-09) → Evaluación Nº2 → Ingeniería inversa con HTML, SVG y CSS**
 
 Clase 10 → 10/10/2022 → FERIADO
 
@@ -49,13 +49,13 @@ Clase 10 → 10/10/2022 → FERIADO
 
 Clase 13 → 31/10/2022 → FERIADO
 
-[Clase 14 → 07/11/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-14) → Implementación de gráficos con SVG
+[Clase 14 → 07/11/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-14) → Implementación de gráficos con SVG (a evaluar como parte del proceso)
 
-[Clase 15 → 14/11/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-15) → Despliegue de gráficos con SVG en HTML
+[Clase 15 → 14/11/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-15) → Despliegue de gráficos con SVG en HTML (a evaluar como parte del proceso)
 
-[Clase 16 → 21/11/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-16) → Mínimo viable con HTML, SVG y CSS
+[Clase 16 → 21/11/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-16) → Mínimo viable con HTML, SVG y CSS (a evaluar como parte del proceso)
 
-**[Clase 17 → 28/11/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-17) → Evaluación Nº4 → Entrega final**
+**[Clase 17 → 28/11/2022](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-17) → Evaluación Nº4 → Proceso y Entrega final**
 
 
 - - - - - - - - - -
