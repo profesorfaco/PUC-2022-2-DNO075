@@ -6,7 +6,7 @@ La clase está en la [carpeta Drive del curso](https://docs.google.com/presentat
 
 En este espacio corresponde ofrecer apoyo al primer ejercicio práctico, a revolver en duplas, aprovechando: 
 
-1. el [index.html](https://profesorfaco.github.io/dno075-2022-1/clase-01/) en esta carpeta.
+1. el [index.html](https://profesorfaco.github.io/dno075-2022-2/clase-01/) en esta carpeta.
 
 2. la [hoja de cálculo](https://docs.google.com/spreadsheets/d/1hxDagDta1M6MUl6zTjGDKRcsCIF9jhs7eP4VokoKzIU/edit?usp=sharing) donde se asignaron nombres y en el que ustedes tendrán que decidir por una dupla.
 
