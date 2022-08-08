@@ -2,7 +2,7 @@
 
 ### Clase 01 → 08/08/2022
 
-La clase está en la [carpeta Drive del curso](https://docs.google.com/presentation/d/1OtQAFa_0O7-IZ0z_A5zW436tSTwXnjELVacj-UjrYgY/edit?usp=sharing)
+La [primera clase](https://docs.google.com/presentation/d/1OtQAFa_0O7-IZ0z_A5zW436tSTwXnjELVacj-UjrYgY/edit?usp=sharing) está en la [carpeta Drive del curso](https://drive.google.com/drive/folders/1TrKlW5fCH-crkBDy0LYgei0S6wCblQsI?usp=sharing)
 
 En este espacio corresponde ofrecer apoyo al primer ejercicio práctico, a revolver en duplas, aprovechando: 
 
