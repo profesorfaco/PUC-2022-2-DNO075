@@ -85,6 +85,7 @@ Para el desarrollo del curso, cada estudiante debería contar con:
 
 - Adolfo Arranz - https://www.scmp.com/author/adolfo-arranz
 - Alberto Cairo - http://albertocairo.com/
+- Jaime Serra Palou - https://www.archivosjaimeserra.com/
 - Nigel Holmes - http://www.nigelholmes.com/
 - Giorgia Lupi - http://giorgialupi.com/ 
 - Isabel Meirelles - https://isabelmeirelles.com/
