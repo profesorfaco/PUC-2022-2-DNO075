@@ -6,7 +6,8 @@ La [tercera clase](https://docs.google.com/presentation/d/1ZApg8dXgdtMIn3joViGHk
 
 En este espacio corresponde insistir en apoyo al ejercicio práctico, a revolver en duplas copiando el `index.html` en esta carpeta, que pueden ver como:
 
-- [resultado](https://profesorfaco.github.io/dno075-2022-2/clase-03/) (gracias a GitHub Pages) o 
+- [resultado](https://profesorfaco.github.io/dno075-2022-2/clase-03/) (gracias a GitHub Pages)
+
 - [código fuente](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-03/index.html)
 
 En el mismo documento `index.html` pueden encontrar más instrucciones para el desarrollo de la actividad.
