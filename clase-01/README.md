@@ -18,7 +18,8 @@ Una persona en la dupla tendrá que tener [una cuenta en GitHub](https://github.
 
 Entre ambas personas en la dupla, tendrán que buscar imágenes de trabajos de un "transformer" (s.XX) y un "infografista" (s.XXI), según lo que se haya designado a c/u en la [hoja de cálculo](https://docs.google.com/spreadsheets/d/1hxDagDta1M6MUl6zTjGDKRcsCIF9jhs7eP4VokoKzIU/edit?usp=sharing).
 
-#### Resultados
+### Resultados
+
 | Estudiantes | URL         |
 |:------------|:------------|
 | AMAYA BUTRÓN & ISIDORA ROZAS | https://amayabutron.github.io/Trabajo-1.-Amaya-Butron-Isidora-Rozas/ |
