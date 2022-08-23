@@ -10,7 +10,7 @@ En este espacio corresponde insistir en apoyo al ejercicio práctico, a revolver
 
 - [código fuente](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-04/index.html)
 
-En el mismo documento `index.html` pueden encontrar un complemento a lo que se presenta en clases y un ejemplo a lo que deben resolver: Comparar versiones impresa y digital de cualquiera de los siguientes 5 trabajos infográficos:
+En el mismo documento `index.html` pueden encontrar un complemento a lo que se presenta en clases y un ejemplo a lo que deben resolver: Comparar versiones impresa y digital de un trabajos infográficos. Tienes 6 opciones:
 
 **1. ANDAMIOS DE BAMBÚ**: 
 
