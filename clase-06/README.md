@@ -8,13 +8,13 @@ Para resolver esta infografía digital, cuenta con un documento con fuentes que 
 
 En lo que presente, será clave el desarrollo de [una redacción linear](https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s), considerando sólo 3 gráficas, que pueden ser figurativas, no figurativas y/o mixtas; considere que puede repetir un tipo de gráfica, pero no puede usar un único tipo para resolver toda la infografía (ver, más abajo, el tercer criterio de pauta de evaluación).
 
-Para más detalles sobre la evaluación, le sugerimos revisar:
+Para más detalles sobre la evaluación, le sugerimos leer atentamente:
 
-- [la base](https://profesorfaco.github.io/dno075-2022-2/clase-06/) (gracias a GitHub Pages)
+- [la base](https://profesorfaco.github.io/dno075-2022-2/clase-06/); y
 
 - [su código fuente](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-06/index.html)
 
-Y después de esa revisión, revise la siguiente pauta: 
+Y después de eso, pase a la pauta de evaluación:
 
 | Criterio | puntaje máximo |
 |:---------|:--------------:|
