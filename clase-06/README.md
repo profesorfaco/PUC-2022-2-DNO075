@@ -2,7 +2,7 @@
 
 ### Clase 06 → 12/09/2022
 
-En esta clase, y dentro del horario que le corresponde (hasta las 12.50 hrs.) cada estudiante debe resolver su propia versión de infografía digital sobre La Tragedia de Los Andes.
+En esta clase cada estudiante debe resolver su propia versión de una infografía digital sobre La Tragedia de Los Andes.
 
 Para resolver esta infografía digital, cuenta con un documento con fuentes que le permitirán informarse, contrastar y respaldar lo que decida presentar: [CLASE-06-DNO075-2022-2](https://docs.google.com/document/d/1-K8TYRW-3lTfgRcz64kN3SHP021WK3aHuPPxTwXQ3Jk/edit?usp=sharing)
 
