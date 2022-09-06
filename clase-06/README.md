@@ -6,7 +6,7 @@ En esta clase, y dentro del horario que le corresponde (hasta las 12.50 hrs.) ca
 
 Para resolver esta infografía digital, cuenta con un documento con fuentes que le permitirán informarse, contrastar y respaldar lo que decida presentar en su infografía digital: [CLASE-06-DNO075-2022-2](https://docs.google.com/document/d/1-K8TYRW-3lTfgRcz64kN3SHP021WK3aHuPPxTwXQ3Jk/edit?usp=sharing)
 
-En lo que presente, será clave el desarrollo de [una redacción linear](https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s), considerando sólo 3 gráficas, que pueden ser figurativas, no figurativas y/o mixtas; considere que puede repetir un tipo de gráfica, pero no puede usar un único tipo para resolver toda la infografía.
+En lo que presente, será clave el desarrollo de [una redacción linear](https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s), considerando sólo 3 gráficas, que pueden ser figurativas, no figurativas y/o mixtas; considere que puede repetir un tipo de gráfica, pero no puede usar un único tipo para resolver toda la infografía (ver, más abajo, el tercer criterio de pauta de evaluación).
 
 Para más detalles sobre la evaluación, le sugerimos revisar:
 
