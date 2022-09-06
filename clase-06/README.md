@@ -27,7 +27,7 @@ Y después de eso, pase a la pauta de evaluación:
 | Punto base ya asignado en [clase 5](https://docs.google.com/spreadsheets/d/1mVZWwwvEZCp4Zur07GKNSS6yWzZ5_-gNwkjusxaT5oE/edit?usp=sharing) | 1 |
 | **TOTAL** | **7** |
 
-Serán evaluados sólo los trabajos individuales que antes del fin del horario de la clase (12.50 hrs.) estén operativos en línea por medio de [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site). 
+Serán evaluados sólo los trabajos individuales que estén operativos en línea, por medio de [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site), antes del fin del horario de la clase (12.50 hrs.). 
 
 - - - - - - - -
 
