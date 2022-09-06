@@ -4,15 +4,27 @@
 
 En esta clase, y dentro del horario que le corresponde (hasta las 12.50 hrs.) cada estudiante debe resolver su propia versión de infografía digital sobre La Tragedia de Los Andes.
 
-Para resolver esta infografía digital, cuenta con un documento que fuentes que le permitirán informarse, contrastar y respaldar lo que decida presentar: [CLASE-06-DNO075-2022-2](https://docs.google.com/document/d/1-K8TYRW-3lTfgRcz64kN3SHP021WK3aHuPPxTwXQ3Jk/edit?usp=sharing)
+Para resolver esta infografía digital, cuenta con un documento con fuentes que le permitirán informarse, contrastar y respaldar lo que decida presentar en su infografía digital: [CLASE-06-DNO075-2022-2](https://docs.google.com/document/d/1-K8TYRW-3lTfgRcz64kN3SHP021WK3aHuPPxTwXQ3Jk/edit?usp=sharing)
 
-En la presenta es clave que desarrolle una buena redacción linear, considerando sólo 3 gráficos, que pueden ser figurativos, no figurativos y/o mixtos. Por favor considere que puede repetir una opción de gráfico, pero no puede usar sólo un único tipo para resolver toda la infografía.
+En lo que presente, será clave el desarrollo de [una redacción linear](https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s), considerando sólo 3 gráficas, que pueden ser figurativas, no figurativas y/o mixtas; considere que puede repetir un tipo de gráfica, pero no puede usar un único tipo para resolver toda la infografía.
 
 Para más detalles sobre la evaluación, le sugerimos revisar:
 
 - [la base](https://profesorfaco.github.io/dno075-2022-2/clase-06/) (gracias a GitHub Pages)
 
 - [su código fuente](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-06/index.html)
+
+Y después de esa revisión, revise la siguiente pauta: 
+
+| Criterio | puntaje máximo |
+|:---------|:--------------:|
+| Calidad de la información (es evidente que se informa para informar) | 1 |
+| Desarrollo de redacción linear | 1 |
+| Pertinencia del tipo de gráfica para lo que presentan en conjunto, complementándose | 1 |
+| Primera dupla de texto y gráfica | 1 |
+| Segunda dupla de texto y gráfica | 1 |
+| Tercera dupla de texto y gráfica | 1 |
+| Punto base ya asignado en [clase 5](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-05) | 1 |
 
 - - - - - - - -
 
