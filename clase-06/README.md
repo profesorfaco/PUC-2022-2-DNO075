@@ -21,9 +21,9 @@ Y después de esa revisión, revise la siguiente pauta:
 | Calidad de la información (es evidente que se informa para informar) | 1 |
 | Desarrollo de redacción linear (adecuado despliegue de la historia en el *scroll*) | 1 |
 | Pertinencia funcional y variedad de las gráficas en uso | 1 |
-| Criterio reservado hasta las 10.00 hrs. del 12 de septiembre | 1 |
-| Criterio reservado hasta las 10.00 hrs. del 12 de septiembre | 1 |
-| Criterio reservado hasta las 10.00 hrs. del 12 de septiembre | 1 |
+| *Criterio reservado hasta las 10.00 hrs. del 12 de septiembre* | 1 |
+| *Criterio reservado hasta las 10.00 hrs. del 12 de septiembre* | 1 |
+| *Criterio reservado hasta las 10.00 hrs. del 12 de septiembre* | 1 |
 | Punto base ya asignado en [clase 5](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-05) | 1 |
 | **TOTAL** | **7** |
 
