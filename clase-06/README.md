@@ -24,7 +24,7 @@ Y después de esa revisión, revise la siguiente pauta:
 | *Criterio reservado hasta las 10.00 hrs. del 12/09/2022* | 1 |
 | *Criterio reservado hasta las 10.00 hrs. del 12/09/2022* | 1 |
 | *Criterio reservado hasta las 10.00 hrs. del 12/09/2022* | 1 |
-| Punto base ya asignado en [clase 5](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-05) | 1 |
+| Punto base ya asignado en [clase 5](https://docs.google.com/spreadsheets/d/1mVZWwwvEZCp4Zur07GKNSS6yWzZ5_-gNwkjusxaT5oE/edit?usp=sharing) | 1 |
 | **TOTAL** | **7** |
 
 Serán evaluados sólo los trabajos individuales que antes del fin del horario de la clase (12.50 hrs.) estén operativos en línea por medio de [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site). 
