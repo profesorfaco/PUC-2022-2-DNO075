@@ -25,6 +25,7 @@ Y después de esa revisión, revise la siguiente pauta:
 | Segunda dupla de texto y gráfica | 1 |
 | Tercera dupla de texto y gráfica | 1 |
 | Punto base ya asignado en [clase 5](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-05) | 1 |
+| **TOTAL** | **7** |
 
 - - - - - - - -
 
