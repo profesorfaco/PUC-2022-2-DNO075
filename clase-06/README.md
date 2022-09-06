@@ -19,7 +19,7 @@ Y después de esa revisión, revise la siguiente pauta:
 | Criterio | puntaje máximo |
 |:---------|:--------------:|
 | Calidad de la información (es evidente que se informa para informar) | 1 |
-| Desarrollo de redacción linear | 1 |
+| Desarrollo de redacción linear (adecuado despliegue de la historia en el *scroll*) | 1 |
 | Pertinencia del tipo de gráfica para lo que presentan en conjunto, complementándose | 1 |
 | Primera dupla de texto y gráfica | 1 |
 | Segunda dupla de texto y gráfica | 1 |
