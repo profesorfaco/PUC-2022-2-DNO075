@@ -13,6 +13,7 @@
                 --bs-body-color: #232323;
             }
             body {
+                /* puede reemplazar la imagen de encabezado por otra que se funda con el color de fondo (que en este caso es #f7f7f7) */
                 background: #f7f7f7 url("img/encabezado.png") center 0 no-repeat;
                 background-size: auto 70vh;
             }
@@ -41,7 +42,8 @@
         <header class="container">
             <div class="row">
                 <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
-                    <h1 class="text-center" style="padding-top: 71vh;">La Tragedia de Los Andes</h1>
+                    <!--note que el h1 incluye un atributo de estilo, donde el valor es 71vh (ver línea 18 del código, es igual al segundo valor del background-size)-->
+                    <h1 class="text-center" style="padding-top: 70vh;">La Tragedia de Los Andes</h1>
                     <h2 class="mt-4 mb-5 text-center fs-6 text-black-50">POR NOMBRE APELLIDO</h2>
                 </div>
             </div>
