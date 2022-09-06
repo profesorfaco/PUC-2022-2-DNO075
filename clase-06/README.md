@@ -20,10 +20,10 @@ Y después de esa revisión, revise la siguiente pauta:
 |:---------|:--------------:|
 | Calidad de la información (es evidente que se informa para informar) | 1 |
 | Desarrollo de redacción linear (adecuado despliegue de la historia en el *scroll*) | 1 |
-| Pertinencia del tipo de cada gráfica en lo que aporta al conjunto como infografía | 1 |
-| Primera dupla de texto y gráfica | 1 |
-| Segunda dupla de texto y gráfica | 1 |
-| Tercera dupla de texto y gráfica | 1 |
+| Pertinencia funcional y variedad de las tres gráficas en uso | 1 |
+| Calidad de la primera dupla de texto y gráfica | 1 |
+| Calidad de la segunda dupla de texto y gráfica | 1 |
+| Calidad de la tercera dupla de texto y gráfica | 1 |
 | Punto base ya asignado en [clase 5](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-05) | 1 |
 | **TOTAL** | **7** |
 
