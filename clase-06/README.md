@@ -28,7 +28,7 @@ Y después de eso, pase a la pauta de evaluación:
 | **TOTAL** | **7** |
 
 
-Con los criterios y puntajes en la pauta, esperamos que sea claro que no es necesario crear ni cambiar las [reglas CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#anatomy_of_a_css_ruleset) incrustadas en documento [index.html](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-06/index.html). Lo que sí debe cambiar en tal documento son los [contenidos](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_element) de los elementos HTML ya dispuestos.
+Con los criterios y puntajes en la pauta, esperamos que sea claro que no pedimos crear ni cambiar las [reglas CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#anatomy_of_a_css_ruleset) incrustadas en documento [index.html](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-06/index.html). Lo que sí debe cambiar en tal documento son los [contenidos](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_element) de los elementos HTML ya dispuestos.
 
 **Serán evaluados sólo los trabajos individuales que estén operativos en línea, por medio de [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site), antes del fin del horario de la clase (12.50 hrs.)** 
 
