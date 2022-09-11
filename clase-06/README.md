@@ -6,7 +6,7 @@ En esta clase **cada estudiante** debe resolver su propia versión de una infogr
 
 Para resolver su infografía digital (individual) contó con un documento con fuentes que le permitieron informarse, contrastar y respaldar lo que le presentará: [CLASE-06-DNO075-2022-2](https://docs.google.com/document/d/1-K8TYRW-3lTfgRcz64kN3SHP021WK3aHuPPxTwXQ3Jk/edit?usp=sharing)
 
-En lo que presente, será clave el desarrollo de [una redacción linear](https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s), considerando sólo 3 gráficas, que pueden ser figurativas, no figurativas y/o mixtas; considere que puede repetir un tipo de gráfica, pero no puede usar un único tipo para resolver toda la infografía (ver, más abajo, el tercer criterio de pauta de evaluación).
+En lo que presente, será clave el desarrollo de [una redacción linear](https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s), considerando sólo 3 gráficas que pueden ser figurativas, no figurativas y/o mixtas; considere que puede repetir un tipo de gráfica, pero no puede usar un único tipo para resolver toda la infografía (ver, más abajo, el tercer criterio de pauta de evaluación).
 
 Para más detalles sobre la evaluación, le sugerimos leer atentamente:
 
