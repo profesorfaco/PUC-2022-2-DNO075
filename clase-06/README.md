@@ -21,9 +21,9 @@ Y después de eso, pase a la pauta de evaluación:
 | Calidad de la información (es evidente que se informa para informar) | 1 |
 | Desarrollo de redacción linear (adecuado despliegue de la historia en el *scroll*) | 1 |
 | Pertinencia funcional y variedad de las gráficas en uso | 1 |
-| *Criterio reservado hasta las 10.00 hrs. del 12/09/2022* | 1 |
-| *Criterio reservado hasta las 10.00 hrs. del 12/09/2022* | 1 |
-| *Criterio reservado hasta las 10.00 hrs. del 12/09/2022* | 1 |
+| Primer tema en redacción linear: Los textos en subtítulo y párrafo junto con la gráfica en formato SVG, comunican una información que no sería posible comunicar de otro modo | 1 |
+| Segundo tema en redacción linear: Los textos en subtítulo y párrafo junto con la gráfica en formato SVG, comunican una información que no sería posible comunicar de otro modo | 1 |
+| Tercer tema en redacción linear: Los textos en subtítulo y párrafo junto con la gráfica en formato SVG, comunican una información que no sería posible comunicar de otro modo | 1 |
 | Punto base ya asignado en [clase 5](https://docs.google.com/spreadsheets/d/1mVZWwwvEZCp4Zur07GKNSS6yWzZ5_-gNwkjusxaT5oE/edit?usp=sharing) | 1 |
 | **TOTAL** | **7** |
 
