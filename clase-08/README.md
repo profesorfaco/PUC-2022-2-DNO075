@@ -20,7 +20,7 @@
 
 - Analizar performance, accesibilidad, buenas prácticas y posicionamiento en buscadores (Search Engine Optimization; SEO) con **[Google Lighthouse](https://blog.interdominios.com/google-lighthouse/)**.
 
-- El análisis recién referido no alcanzará el 100 en SEO, pero podríamos acercarlo a tal número aprovechándonos de **[Mega Tags](https://megatags.co/)**.
+- El análisis recién referido no alcanzará el 100 en SEO, pero podríamos acercarnos a tal número con **[Mega Tags](https://megatags.co/)**.
 
 Con lo de [Mega Tags](https://megatags.co/) volvemos al código fuente de documento HTML, aprendiendo que hay algo que nos falta incluir en su cabeza (`<head>…</head>`):
 
