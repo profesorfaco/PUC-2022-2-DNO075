@@ -40,7 +40,7 @@ Con lo de [Mega Tags](https://megatags.co/) volvemos al código fuente de docume
 </html>
 ```
 
-Si revisan la cabeza (`<head>…</head>`) de los documentos `index.html preparados para cada clase ([01](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-01/index.html), [03](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-03/index.html), [04](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-04/index.html), [05](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-05/index.html) y [06](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-06/index.html)) podrán encontrar líneas que se repiten:
+Si revisan la cabeza (`<head>…</head>`) de los documentos `index.html` preparados para cada clase ([01](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-01/index.html), [03](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-03/index.html), [04](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-04/index.html), [05](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-05/index.html) y [06](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-06/index.html)) podrán encontrar líneas que se repiten:
 
 ```
 <meta charset="utf-8" />
