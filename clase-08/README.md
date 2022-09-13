@@ -54,7 +54,7 @@ La segunda línea le pide algo al navegador, que utilice todo el ancho del que d
 
 La tercera vincula la [hoja de estilos de Bootstrap](https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css) en su quinta versión.
 
-Para complementar y/o contradecir lo que nos ofrece el CSS de [Bootstrap](https://getbootstrap.com/), es que abrimos un espacio dentro de la cabeza, para incrustar un lenguaje distinto del HTML.
+Para complementar y/o contradecir lo que nos ofrece el CSS de [Bootstrap](https://getbootstrap.com/), es que abrimos un espacio dentro de la cabeza, para incrustar un lenguaje distinto del [HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started#%C2%BFqu%C3%A9_es_el_html).
 
 ```
 <style>
@@ -63,30 +63,38 @@ selector {propiedad: valor;}
 </style>
 ```
 
-El lenguaje que incluímos es CSS. Lenguaje que también puede ser incluido dentro de un SVG: Revisen el código fuente de sus gráficas, y notarán que en las primeras líneas de cada SVG descargado de que hayan trabajado con Adobe Illustrator también tienen un `<style>…</style>`.
+El lenguaje que incluímos es [CSS](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics#entonces_%C2%BFqu%C3%A9_es_css_realmente). Lenguaje que también puede ser incluido dentro de un SVG: Revisen el código fuente de sus gráficas, y notarán que en las primeras líneas de cada SVG descargado de que hayan trabajado con Adobe Illustrator también tienen un `<style>…</style>`.
 
 - - - - - -
 
-#### Ahora enfoquémonos en el SVG con "[ingeniería inversa](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inversa)"
+#### Ahora enfoquémonos en el [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Element) con "[ingeniería inversa](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inversa)"
 
 En la [clase 04](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-04) revisamos 7 trabajos de infografistas del South China Morning Post. El criterio de selección de aquellos trabajos era la accesibilidad de su versiones [impresa](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/) y [digital](https://www.scmp.com/infographic/), además de las autorías involucradas.
 
-Aprovechando el acceso abierto a las mismas versiones digitales, tomaremos partes de ellas para poder avanzar en la comprensión del uso de [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Element), [CSS](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics#entonces_%C2%BFqu%C3%A9_es_css_realmente) y [HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started#%C2%BFqu%C3%A9_es_el_html).
+Aprovechando esta accesibilidad, revisaremos algunas líneas de código fuente:
 
-En las **líneas 151 y 152 en el código fuente de [China’s wildlife trade
-](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html)**, podemos encontrar dos versiones de una misma gráfica en SVG: 
+Partamos con **líneas 87 y 88 en el código fuente de [Godzilla: evolution of a monster](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html)**. 
+
+Allí podemos rescatar un SVG: https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/svg/gojira.svg
+
+Además del párrafo que dice: 
+
+> Godzilla’s name is a transliteration of <i>Gojira</i> (ゴジラ), a combination of two Japanese words: <i>gorira</i> (ゴリラ), meaning "gorilla", and <i>kujira</i> (鯨 or クジラ), meaning "whale"
+
+Ahora vamos a las **líneas 151 y 152 en el código fuente de [China’s wildlife trade
+](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html)**, donde podemos encontrar dos versiones de una misma gráfica en SVG: 
 
 - https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/svg/pangolin_facts.svg
 
 - https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/svg/pangolin_phone.svg
 
-En las **líneas 161 y 164 en el código fuente de [Why your smartphone is causing you ‘text neck’ syndrome](https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/)**, también podemos encontrar dos versiones de una misma gráfica en SVG: 
+Sigamos con las **líneas 161 y 164 en el código fuente de [Why your smartphone is causing you ‘text neck’ syndrome](https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/)**, donde también podemos encontrar dos versiones de una misma gráfica en SVG: 
 
 - https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/svg/problems-m.svg
 
 - https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/svg/problems.svg
 
-Y en las **línea 108 y 109 del código fuente de [Bamboo scaffolding in Hong Kong](https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/index.html)** vamos por el último par de gráficas en SVG:
+Y en las **línea 108 y 109 del código fuente de [Bamboo scaffolding in Hong Kong](https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/index.html)** vamos por un último par de gráficas en SVG:
 
 - https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/svg/plant-d.svg
 
