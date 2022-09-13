@@ -88,19 +88,23 @@ Ahora vamos a las **líneas 151 y 152 en el código fuente de [China’s wildlif
 
 - https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/svg/pangolin_phone.svg
 
-Sigamos con las **líneas 161 y 164 en el código fuente de [Why your smartphone is causing you ‘text neck’ syndrome](https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/)**, donde también podemos encontrar dos versiones de una misma gráfica en SVG: 
-
-- https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/svg/problems-m.svg
-
-- https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/svg/problems.svg
-
-Y en las **línea 108 y 109 del código fuente de [Bamboo scaffolding in Hong Kong](https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/index.html)** vamos por un último par de gráficas en SVG:
+Sigamos con las **línea 108 y 109 del código fuente de [Bamboo scaffolding in Hong Kong](https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/index.html)**, donde vamos a rescatar otro par de gráficas en SVG:
 
 - https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/svg/plant-d.svg
 
 - https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/svg/plant-m.svg
 
+Y terminemos con las **líneas 161 y 164 en el código fuente de [Why your smartphone is causing you ‘text neck’ syndrome](https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/)**, rescatando: 
 
+- https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/svg/problems-m.svg
+
+- https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/svg/problems.svg
+
+Con todo lo que rescatamos, corresponde completar el `index.html` en esta carpeta, que pueden ver como:
+
+- [resultado](https://profesorfaco.github.io/dno075-2022-2/clase-08/) (gracias a [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site))
+
+- [código fuente](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-08/index.html)
 
 
 - - - - - - - - - - - - -
