@@ -100,7 +100,7 @@ Y terminemos con las **líneas 161 y 164 en el código fuente de [Why your smart
 
 - https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/svg/problems.svg
 
-Con todo lo que rescatamos, corresponde completar el `index.html` en esta carpeta, que pueden ver como:
+**Con todo lo que revisado, corresponde completar el `index.html` en esta carpeta**, que pueden ver como:
 
 - [resultado](https://profesorfaco.github.io/dno075-2022-2/clase-08/) (gracias a [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site))
 
