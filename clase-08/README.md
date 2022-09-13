@@ -2,7 +2,7 @@
 
 ### Clase 08 → 26/09/2022
 
-**Para retomar el trabajo, tomemos las tres mejores calificaciones**: 
+**Para retomar el avance, tomemos las tres mejores calificaciones**: 
 
 | Nombre | URL  | Nota |
 |:-------|:-----|:-----:|
@@ -40,7 +40,7 @@ Con lo de [Mega Tags](https://megatags.co/) volvemos al código fuente de docume
 </html>
 ```
 
-Si revisan la cabeza (`<head>…</head>`) de los documentos index.html preparados para clase [01](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-01/index.html), [03](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-03/index.html), [04](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-04/index.html), [05](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-05/index.html) y [06](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-06/index.html) podrán encontrar líneas que se repiten:
+Si revisan la cabeza (`<head>…</head>`) de los documentos index.html preparados para cada clase ([01](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-01/index.html), [03](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-03/index.html), [04](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-04/index.html), [05](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-05/index.html) y [06](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-06/index.html)) podrán encontrar líneas que se repiten:
 
 ```
 <meta charset="utf-8" />
@@ -48,13 +48,13 @@ Si revisan la cabeza (`<head>…</head>`) de los documentos index.html preparado
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
 ```
 
-La primera línea indica que el documento utiliza una caja de caracteres UTF-8.
+La primera línea indica que el documento utiliza el formato de codificación de [caracteres UTF-8](https://es.wikipedia.org/wiki/UTF-8).
 
 La segunda línea le pide algo al navegador, que utilice todo el ancho del que disponga para desplegar el contenido.
 
 La tercera vincula la [hoja de estilos de Bootstrap](https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css) en su quinta versión.
 
-Para complementar y/o contradecir lo que ofrece [Bootstrap](https://getbootstrap.com/), es que abrimos un espacio dentro de la cabeza, para incrustar un lenguaje distinto del HTML.
+Para complementar y/o contradecir lo que nos ofrece el CSS de [Bootstrap](https://getbootstrap.com/), es que abrimos un espacio dentro de la cabeza, para incrustar un lenguaje distinto del HTML.
 
 ```
 <style>
@@ -63,9 +63,11 @@ selector {propiedad: valor;}
 </style>
 ```
 
-El lenguaje que incluímos es CSS. Lenguaje que también puede ser incluido dentro de un SVG: Revisen el código fuente de sus gráficas, y notarán que en las primeras líneas de cada SVG trabajado también pueden encontra un `<style>…</style>`.
+El lenguaje que incluímos es CSS. Lenguaje que también puede ser incluido dentro de un SVG: Revisen el código fuente de sus gráficas, y notarán que en las primeras líneas de cada SVG descargado de que hayan trabajado con Adobe Illustrator también tienen un `<style>…</style>`.
 
 - - - - - -
+
+#### Ahora enfoquémonos en el SVG con "[ingeniería inversa](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inversa)"
 
 En la [clase 04](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-04) revisamos 7 trabajos de infografistas del South China Morning Post. El criterio de selección de aquellos trabajos era la accesible a su versiones [impresa](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/) y [digital](https://www.scmp.com/infographic/).
 
