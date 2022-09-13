@@ -40,7 +40,7 @@ Con lo de [Mega Tags](https://megatags.co/) volvemos al código fuente de docume
 </html>
 ```
 
-Si revisan la cabeza (`<head>…</head>`) de los documentos index.html preparados para cada clase ([01](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-01/index.html), [03](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-03/index.html), [04](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-04/index.html), [05](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-05/index.html) y [06](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-06/index.html)) podrán encontrar líneas que se repiten:
+Si revisan la cabeza (`<head>…</head>`) de los documentos `index.html preparados para cada clase ([01](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-01/index.html), [03](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-03/index.html), [04](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-04/index.html), [05](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-05/index.html) y [06](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-06/index.html)) podrán encontrar líneas que se repiten:
 
 ```
 <meta charset="utf-8" />
@@ -79,7 +79,7 @@ Allí podemos rescatar un SVG: https://multimedia.scmp.com/infographics/culture/
 
 Además del párrafo que dice: 
 
-> Godzilla’s name is a transliteration of <i>Gojira</i> (ゴジラ), a combination of two Japanese words: <i>gorira</i> (ゴリラ), meaning "gorilla", and <i>kujira</i> (鯨 or クジラ), meaning "whale"
+> Godzilla's name is a transliteration of <i>Gojira</i> (ゴジラ), a combination of two Japanese words: <i>gorira</i> (ゴリラ), meaning "gorilla", and <i>kujira</i> (鯨 or クジラ), meaning "whale"
 
 Ahora vamos a las **líneas 151 y 152 en el código fuente de [China's wildlife trade
 ](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html)**, donde podemos encontrar dos versiones de una misma gráfica en SVG: 
