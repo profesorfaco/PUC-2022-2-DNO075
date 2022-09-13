@@ -36,42 +36,42 @@ Con los criterios y puntajes en la pauta, esperamos que sea claro que no pedimos
 
 |	Nº	|	Nombre	|	URL	|	NOTA	|
 |:-----:|:----------|:---------|:--------:|
-|	1	|	MARIA DEL PILAR ALEGRE VALL	|	—	|	—	|
-|	2	|	KARINA ELIZABETH ANACONA TOLOZA	|	https://xnxconx.github.io/Prueba01/	|	7,0	|
-|	3	|	ISABELA PAZ AYLWIN REYES	|	https://isabelaaylwin.github.io/evaluacion-n1-infodigital/	|	4,5	|
-|	4	|	CAMILA NICOLE AZÓCAR QUINTEROS	|	—	|	—	|
+|	1	|	MARIA DEL PILAR ALEGRE	|	—	|	—	|
+|	2	|	KARINA ANACONA TOLOZA	|	https://xnxconx.github.io/Prueba01/	|	7,0	|
+|	3	|	ISABELA AYLWIN REYES	|	https://isabelaaylwin.github.io/evaluacion-n1-infodigital/	|	4,5	|
+|	4	|	CAMILA AZÓCAR QUINTEROS	|	—	|	—	|
 |	5	|	OLIVIA BACIGALUPO MORRISON	|	https://oliviabm.github.io/info-digital-prueba01	|	5,8	|
-|	6	|	AYLIN MILLARAY BASTÍAS VILCHES	|	https://aylin-b.github.io/info-06/	|	5,8	|
+|	6	|	AYLIN BASTÍAS VILCHES	|	https://aylin-b.github.io/info-06/	|	5,8	|
 |	7	|	AMAYA BUTRON CARRASCO	|	https://amayabutron.github.io/Evaluacion1-InfografiaDigital	|	5,0	|
-|	8	|	CATALINA ESPERANZA CÁCERES GALINDO	|	https://catacaceres.github.io/clase-06/	|	4,0	|
-|	9	|	JAVIERA ANDREA CASTRO BALLADARES	|	https://javicastroballadares.github.io/Tragedia-los-andes/	|	4,8	|
-|	10	|	JUAN-PABLO MARCELO CATALÁN BALLADARES	|	https://juanpablocatalan.github.io/encargo01-catalan/	|	4,3	|
-|	11	|	JEAN JAVIER DIMTER MUÑOZ	|	https://jjdimter.github.io/prueba	|	4,5	|
-|	12	|	DENNISE SCARLET FREYMUTH FRIZ	|	https://dennisff.github.io/prueba	|	4,5	|
-|	13	|	CONSUELO ALEXANDRA GÓMEZ IVANOFF	|	https://consucg.github.io/infodigital-clase-06/	|	4,8	|
-|	14	|	ANTONIETA DE LAS MERCEDES GONZÁLEZ FERNÁNDEZ	|	—	|	—	|
+|	8	|	CATALINA CÁCERES GALINDO	|	https://catacaceres.github.io/clase-06/	|	4,0	|
+|	9	|	JAVIERA CASTRO BALLADARES	|	https://javicastroballadares.github.io/Tragedia-los-andes/	|	4,8	|
+|	10	|	JUAN-PABLO CATALÁN BALLADARES	|	https://juanpablocatalan.github.io/encargo01-catalan/	|	4,3	|
+|	11	|	JEAN DIMTER MUÑOZ	|	https://jjdimter.github.io/prueba	|	4,5	|
+|	12	|	DENNISE FREYMUTH FRIZ	|	https://dennisff.github.io/prueba	|	4,5	|
+|	13	|	CONSUELO GÓMEZ IVANOFF	|	https://consucg.github.io/infodigital-clase-06/	|	4,8	|
+|	14	|	ANTONIETA GONZÁLEZ FERNÁNDEZ	|	—	|	—	|
 |	15	|	ANGELICA HERNANDEZ HUAMAN	|	https://angeherh.github.io/prueba_la-tragediadelosandes_Hernandez/	|	3,5	|
-|	16	|	MARÍA GRACIA HOYL RATH	|	https://graciahoyl.github.io/entrega-06/	|	4,3	|
+|	16	|	MARÍA GRACIA HOYL	|	https://graciahoyl.github.io/entrega-06/	|	4,3	|
 |	17	|	TRINIDAD JEREZ DÍAZ	|	https://trinidadjerez.github.io/Clase-6	|	6,0	|
-|	18	|	DAIRYN ESPERANZA JORDÁN LARACH	|	https://daiichan.github.io/primera-evaluacion/	|	1,8	|
-|	19	|	MAITE ANAIS MOREIRA CARRASCO	|	https://maitemoreira2022.github.io/evaluacion1/	|	3,3	|
+|	18	|	DAIRYN JORDÁN LARACH	|	https://daiichan.github.io/primera-evaluacion/	|	1,8	|
+|	19	|	MAITE MOREIRA CARRASCO	|	https://maitemoreira2022.github.io/evaluacion1/	|	3,3	|
 |	20	|	MANUELA MUNCHMEYER MADSEN	|	https://manumunchmeyer.github.io/infodigital-clase-06/	|	5,5	|
-|	21	|	MAGDALENA DE LEÓN MUÑOZ GARCÍA	|	https://madumunoz.github.io/infodigital-clase-06/	|	6,8	|
+|	21	|	MAGDALENA MUÑOZ GARCÍA	|	https://madumunoz.github.io/infodigital-clase-06/	|	6,8	|
 |	22	|	VALENTINA NÚÑEZ GRANDÓN	|	https://valenunez6.github.io/evaluacion-1/	|	5,3	|
 |	23	|	AMANDA OLIVA BLOISE	|	—	|	—	|
-|	24	|	MACARENA PAZ RAMÍREZ EGGELING	|	https://macarenaram.github.io/EvaluacionN1/	|	4,8	|
-|	25	|	DOMINIQUE LIAT REZEPKA BITRÁN	|	https://domirezepka.github.io/clase-6/	|	2,5	|
-|	26	|	LAURA EMILIA RIVERA GUEVARA	|	—	|	—	|
-|	27	|	ISIDORA ALEJANDRA ROZAS FACUSE	|	https://isidorarozas.github.io/infodigital-clase-06	|	4,5	|
-|	28	|	FERNANDA PAZ ROZAS MASSOUD	|	https://fernandarozas.github.io/prueba-infogdigital/	|	4,3	|
-|	29	|	FERNANDA JAVIERA SALDIVIA FRITZ	|	https://fernandasaldivia.github.io/tragediadelosandes/	|	5,3	|
-|	30	|	MARCELA ANDREA SILVA NAVARRO	|	https://marcela-s.github.io/info-06/	|	6,0	|
-|	31	|	NATALIA GABRIELA VALERA LLAQUE	|	https://nvalerallaque.github.io/evaluacion-01/	|	5,3	|
-|	32	|	CATALINA ALEXANDRA VALLEJOS INOSTROZA	|	https://cevallejos.github.io/encargo_01/	|	6,3	|
-|	33	|	TERESITA MARÍA VARAS VELASCO	|	—	|	—	|
-|	34	|	MARÍA JESÚS VIDAL LYNCH	|	https://mjvidallynch.github.io/infodigital-clase-06/	|	7,0	|
-|	35	|	ROCÍO ANDREA VILLEGAS GUTIÉRREZ	|	https://rociovillegas25.github.io/prueba01/	|	6,3	|
-|	36	|	VALENTINA ISABEL WALLER QUEZADA	|	https://valewq.github.io/InfoPrueba1/	|	7,0	|
+|	24	|	MACARENA RAMÍREZ EGGELING	|	https://macarenaram.github.io/EvaluacionN1/	|	4,8	|
+|	25	|	DOMINIQUE REZEPKA BITRÁN	|	https://domirezepka.github.io/clase-6/	|	2,5	|
+|	26	|	LAURA RIVERA GUEVARA	|	—	|	—	|
+|	27	|	ISIDORA ROZAS FACUSE	|	https://isidorarozas.github.io/infodigital-clase-06	|	4,5	|
+|	28	|	FERNANDA ROZAS MASSOUD	|	https://fernandarozas.github.io/prueba-infogdigital/	|	4,3	|
+|	29	|	FERNANDA SALDIVIA FRITZ	|	https://fernandasaldivia.github.io/tragediadelosandes/	|	5,3	|
+|	30	|	MARCELA SILVA NAVARRO	|	https://marcela-s.github.io/info-06/	|	6,0	|
+|	31	|	NATALIA VALERA LLAQUE	|	https://nvalerallaque.github.io/evaluacion-01/	|	5,3	|
+|	32	|	CATALINA VALLEJOS INOSTROZA	|	https://cevallejos.github.io/encargo_01/	|	6,3	|
+|	33	|	TERESITA VARAS VELASCO	|	—	|	—	|
+|	34	|	MARÍA JESÚS VIDAL	|	https://mjvidallynch.github.io/infodigital-clase-06/	|	7,0	|
+|	35	|	ROCÍO VILLEGAS GUTIÉRREZ	|	https://rociovillegas25.github.io/prueba01/	|	6,3	|
+|	36	|	VALENTINA WALLER QUEZADA	|	https://valewq.github.io/InfoPrueba1/	|	7,0	|
 
 - - - - - - - -
 
