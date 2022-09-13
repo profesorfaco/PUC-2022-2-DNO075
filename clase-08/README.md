@@ -81,7 +81,7 @@ Además del párrafo que dice:
 
 > Godzilla’s name is a transliteration of <i>Gojira</i> (ゴジラ), a combination of two Japanese words: <i>gorira</i> (ゴリラ), meaning "gorilla", and <i>kujira</i> (鯨 or クジラ), meaning "whale"
 
-Ahora vamos a las **líneas 151 y 152 en el código fuente de [China’s wildlife trade
+Ahora vamos a las **líneas 151 y 152 en el código fuente de [China's wildlife trade
 ](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html)**, donde podemos encontrar dos versiones de una misma gráfica en SVG: 
 
 - https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/svg/pangolin_facts.svg
