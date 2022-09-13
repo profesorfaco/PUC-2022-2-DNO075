@@ -16,7 +16,7 @@
 
 - Evaluar la accesibilidad a su infografía digital con la herramienta que ofrece **[WAVE de WebAIM](https://wave.webaim.org/)**.
 
-- Evaluar el contraste figura/fondo en las gráficas (que WAVE no puede analizar) mediante **otra herramienta de WebAIM, su [Contrast Checker](https://webaim.org/resources/contrastchecker/)**; esto vendría después de asegurarse que el esquema de color sea "colorblind safe" según [Color Brewer 2.0](https://colorbrewer2.org/) (es que un rojo y verde pueden tener suficiente contraste con un fondo blanco, pero no ser diferenciables entre sí bajo ciertas condiciones que podrían ver en sus propios navegadores Chrome, usando [Daltonize](https://chrome.google.com/webstore/detail/daltonize/obcnmdgpjakcffkcjnonpdlainhphpgh))
+- Evaluar el contraste figura/fondo en las gráficas (que WAVE no puede analizar) mediante **otra herramienta de WebAIM, su [Contrast Checker](https://webaim.org/resources/contrastchecker/)**; esto vendría después de asegurarse que el esquema de color sea "colorblind safe" según [Color Brewer 2.0](https://colorbrewer2.org/) (es que un rojo y verde pueden tener suficiente contraste con un fondo blanco, pero [no ser diferenciables entre sí](https://twitter.com/chiuminatto/status/1565323331946946562) bajo ciertas condiciones que podrían ver en sus propios navegadores Chrome, usando [Daltonize](https://chrome.google.com/webstore/detail/daltonize/obcnmdgpjakcffkcjnonpdlainhphpgh))
 
 - Analizar performance, accesibilidad, buenas prácticas y posicionamiento en buscadores (Search Engine Optimization; SEO) con **[Google Lighthouse](https://blog.interdominios.com/google-lighthouse/)**.
 
