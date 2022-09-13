@@ -63,7 +63,7 @@ selector {propiedad: valor;}
 </style>
 ```
 
-El lenguaje que incluímos es [CSS](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics#entonces_%C2%BFqu%C3%A9_es_css_realmente). Lenguaje que también puede ser incluido dentro de un [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Element): Revisen el código fuente de sus gráficas, y notarán que en las primeras líneas de cada SVG descargado de que hayan trabajado con Adobe Illustrator también tienen un `<style>…</style>`.
+El lenguaje que incluímos es [CSS](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics#entonces_%C2%BFqu%C3%A9_es_css_realmente). Lenguaje que también puede ser incluido dentro de un [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Element): Revisen el código fuente de sus gráficas, y notarán que en las primeras líneas de cada SVG descargado de [RAWGraphs](https://www.rawgraphs.io/) y/o trabajado con Adobe Illustrator también tienen un `<style>…</style>`.
 
 - - - - - -
 
