@@ -2,7 +2,7 @@
 
 ### Clase 08 → 26/09/2022
 
-**Para retomar el avance, tomemos las tres mejores calificaciones**: 
+**Para retomar el avance, aprovechemos las tres mejores calificaciones**: 
 
 | Nombre | URL  | Nota |
 |:-------|:-----|:-----:|
@@ -10,7 +10,7 @@
 | MARÍA JESÚS VIDAL	| https://mjvidallynch.github.io/infodigital-clase-06/	| 7,0 |
 | VALENTINA WALLER QUEZADA	| https://valewq.github.io/InfoPrueba1/	 | 7,0 |
 
-**Para que tales trabajos mejoren aun más**:
+**Para que tales infografía digitales mejoren aun más**:
 
 - Conviene volver sobre las redacciones después de revisar algunos artículos y videos en la [sección "Writing for the Web" del NN Group](https://www.nngroup.com/topic/writing-web/); un artículo que debería conocerse es **el viejo [How Users Read on the Web (Nielsen, 1997)](https://www.nngroup.com/articles/how-users-read-on-the-web/)**, y tal conocimiento podría complementarse con [How People Read Online: New and Old Findings (Moran, 2020)](https://www.nngroup.com/articles/how-people-read-online/). 
 
