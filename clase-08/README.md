@@ -22,7 +22,7 @@
 
 - el análisis recién referido no alcanzará el 100 en SEO, pero podríamos acercarnos a tal número con **[Mega Tags](https://megatags.co/)**.
 
-Con lo de [Mega Tags](https://megatags.co/) volvemos al código fuente de documento HTML, aprendiendo que hay algo que nos falta incluir en su cabeza (`<head>…</head>`):
+Con lo de [Mega Tags](https://megatags.co/) volvemos al código fuente de documento HTML, aprendiendo que hay algo que nos falta incluir en su cabeza (el [elemento HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_element) entre etiquetas `<head>…</head>`):
 
 ```
 <!doctype html>
