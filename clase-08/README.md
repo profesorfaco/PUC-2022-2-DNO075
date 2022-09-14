@@ -10,17 +10,17 @@
 | MARÍA JESÚS VIDAL	| https://mjvidallynch.github.io/infodigital-clase-06/	| 7,0 |
 | VALENTINA WALLER QUEZADA	| https://valewq.github.io/InfoPrueba1/	 | 7,0 |
 
-**Para que tales infografía digitales mejoren aun más**:
+**Para que tales infografía digitales mejoren aun más, conviene**:
 
-- Conviene volver sobre las redacciones después de revisar algunos artículos y videos en la [sección "Writing for the Web" del NN Group](https://www.nngroup.com/topic/writing-web/); un artículo que debería conocerse es **el viejo [How Users Read on the Web (Nielsen, 1997)](https://www.nngroup.com/articles/how-users-read-on-the-web/)**, y tal conocimiento podría complementarse con [How People Read Online: New and Old Findings (Moran, 2020)](https://www.nngroup.com/articles/how-people-read-online/). 
+- volver sobre las redacciones después de revisar algunos artículos y videos en la [sección "Writing for the Web" del NN Group](https://www.nngroup.com/topic/writing-web/); un artículo que debería conocerse es **el viejo [How Users Read on the Web (Nielsen, 1997)](https://www.nngroup.com/articles/how-users-read-on-the-web/)**, y tal conocimiento podría complementarse con [How People Read Online: New and Old Findings (Moran, 2020)](https://www.nngroup.com/articles/how-people-read-online/). 
 
-- Evaluar la accesibilidad a su infografía digital con la herramienta que ofrece **[WAVE de WebAIM](https://wave.webaim.org/)**.
+- evaluar la accesibilidad a su infografía digital con la herramienta que ofrece **[WAVE de WebAIM](https://wave.webaim.org/)**.
 
-- Evaluar el contraste figura/fondo en las gráficas (que WAVE no puede analizar) mediante **otra herramienta de WebAIM, su [Contrast Checker](https://webaim.org/resources/contrastchecker/)**; esto vendría después de asegurarse que el esquema de color sea "colorblind safe" según [Color Brewer 2.0](https://colorbrewer2.org/) (es que un rojo y un verde pueden tener suficiente contraste con un fondo blanco, pero [no ser diferenciables entre sí](https://twitter.com/chiuminatto/status/1565323331946946562) bajo ciertas condiciones que podrían ver en sus propios navegadores Chrome, usando [Daltonize](https://chrome.google.com/webstore/detail/daltonize/obcnmdgpjakcffkcjnonpdlainhphpgh))
+- evaluar el contraste figura/fondo en las gráficas (que WAVE no puede analizar) mediante **otra herramienta de WebAIM, su [Contrast Checker](https://webaim.org/resources/contrastchecker/)**; esto vendría después de asegurarse que el esquema de color sea "colorblind safe" según [Color Brewer 2.0](https://colorbrewer2.org/) (es que un rojo y un verde pueden tener suficiente contraste con un fondo blanco, pero [no ser diferenciables entre sí](https://twitter.com/chiuminatto/status/1565323331946946562) bajo ciertas condiciones que podrían ver en sus propios navegadores Chrome, usando [Daltonize](https://chrome.google.com/webstore/detail/daltonize/obcnmdgpjakcffkcjnonpdlainhphpgh))
 
-- Analizar performance, accesibilidad, buenas prácticas y posicionamiento en buscadores (Search Engine Optimization; SEO) con **[Google Lighthouse](https://blog.interdominios.com/google-lighthouse/)**.
+- analizar performance, accesibilidad, buenas prácticas y posicionamiento en buscadores (Search Engine Optimization; SEO) con **[Google Lighthouse](https://blog.interdominios.com/google-lighthouse/)**.
 
-- El análisis recién referido no alcanzará el 100 en SEO, pero podríamos acercarnos a tal número con **[Mega Tags](https://megatags.co/)**.
+- el análisis recién referido no alcanzará el 100 en SEO, pero podríamos acercarnos a tal número con **[Mega Tags](https://megatags.co/)**.
 
 Con lo de [Mega Tags](https://megatags.co/) volvemos al código fuente de documento HTML, aprendiendo que hay algo que nos falta incluir en su cabeza (`<head>…</head>`):
 
