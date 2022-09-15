@@ -8,7 +8,7 @@ El tipo que esperamos que alcancen con su bocetaje es el que coincide con los EX
 
 > They communicate a design in a clear and neutral manner, focusing more on explaining the idea rather than selling it. Explanatory sketches must be readable to other people than those involved in the design process. The first feedback from the client usually happens after reviewing these sketches.
 
-Su bocetaje debe ser legible para otros grupos y profesores.
+Su bocetaje debe ser legible para los otros grupos y sus profesores.
 
 - - - - - - - -
 
