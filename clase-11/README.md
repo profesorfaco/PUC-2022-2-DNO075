@@ -42,9 +42,7 @@ Con un acuerdo sobre el esquema de papel, se podría pasar al desarrollo de vari
 
 Con un acuerdo sobre un boceto de grupo (al que se puede llegar con una dinámica de [*design studio*](https://medium.com/@jc.stories/lean-ux-running-a-design-studio-8c0c94ae69d4)), se podría pasar a la implementación donde corresponde poner en juego las capacidades individuales, tal como pudieron hacer Gloria, Adolfo, Simon y Manas.
 
-**Al tratarse de un trabajo grupal, haremos un ajuste en el uso de GitHub** 
-
-> Ya no trabajaremos en repositorios creados en la cuenta personal. Lo que haremos desde esta clase será trabajar en una cuenta de organización: https://docs.github.com/es/organizations
+**Al tratarse de un trabajo grupal, haremos un ajuste en el uso de GitHub: Ya no trabajaremos en repositorios creados en la cuenta personal. Lo que haremos desde esta clase será trabajar en una cuenta de organización: https://docs.github.com/es/organizations**
 
 En la cuenta de cada organización, donde cada integrante del grupo debería tener acceso a la administración, se crearán repositorios con nombres que nos permitan seguir su avance desde en las clases 11, [12](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-12), ~~13~~, [14](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-14), [15](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-15), [16](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-16), [17](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-17).
 
