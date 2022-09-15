@@ -34,13 +34,13 @@ VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE:
 
 **Veamos un ejemplo de las capacidades individuales complementadas**: En [Why Arctic fires are releasing more carbon than ever](https://graphics.reuters.com/CLIMATE-CHANGE/WILDFIRE-EMISSIONS/zjvqkrwmnvx/) tenemos a [Gloria Dickie](https://twitter.com/GloriaDickie) escribiendo algo sobre *Global Climate & Environment*, mientras [Adolfo Arranz](https://twitter.com/adolfux) pudo encargarse de la gráfica figurativa (a mano alzada), [Simon Scarr](http://www.simonscarr.com/) pudo encargarse de la gráfica no figurativa, y [Manas Sharma](https://www.linkedin.com/in/manas-sharma-69b516179/) pudo aportar al desarrollo de ambas. Todas sus capacidades convergen en una única pieza que se recorre verticalmente, convergen en un todo de [redacción linear](https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s) que es distinto de la suma de las partes.
 
-A tal convergencia se puede llegar si es que primero el grupo se informa para poder informar. 
+A tal convergencia se podría llegar si es que primero el grupo se informa para poder informar. 
 
-Lo segundo es organizar la información que corresponde presentar mediante una infografía digital en un guión, como *stoy board* de narración linear (ver video del Dr. García entre [37:32 y 38:20](https://youtu.be/iEB3oILm-qQ?t=2252)).
+Lo segundo sería organizar la información que corresponde presentar mediante una infografía digital en un guión, como *stoy board* de narración linear (ver video del Dr. García entre [37:32 y 38:20](https://youtu.be/iEB3oILm-qQ?t=2252)).
 
-Con un acuerdo sobre el guión, se puede pasar al desarrollo de varios bocetos preliminares que conviene resolver a mano alzada (ver [The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch)).
+Con un acuerdo sobre el guión, se podría pasar al desarrollo de varios bocetos preliminares que conviene resolver a mano alzada (ver [The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch)).
 
-Con un acuerdo sobre un boceto de grupo, se puede pasar a la implementación donde corresponde complementar los talentos, tal como hacen Gloria, Adolfo, Simon y Manas.
+Con un acuerdo sobre un boceto de grupo, recién se podría pasar a la implementación donde corresponde poner en juego las capacidades individuales, tal como pudieron hacer Gloria, Adolfo, Simon y Manas.
 
 - - - - - - - - 
 
