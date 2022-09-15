@@ -50,7 +50,7 @@ Si revisan la cabeza (`<head>…</head>`) de los documentos `index.html` prepara
 
 La primera línea indica que el documento utiliza el formato de codificación de [caracteres UTF-8](https://es.wikipedia.org/wiki/UTF-8).
 
-La segunda línea le pide algo al navegador, que utilice todo el ancho del que disponga para desplegar el contenido.
+La segunda línea le pide algo al navegador, que utilice todo el ancho del [viewport](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag) para desplegar el contenido.
 
 La tercera vincula la [hoja de estilos de Bootstrap](https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css) en su quinta versión.
 
