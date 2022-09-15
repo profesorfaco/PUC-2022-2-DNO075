@@ -1,4 +1,4 @@
-# Mínimo viable con HTML, SVG y CSS
+# Ajutes de HTML, SVG y CSS
 
 ### Clase 16 → 21/11/2022
 
