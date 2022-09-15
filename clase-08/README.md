@@ -67,7 +67,7 @@ El lenguaje que incluímos es [CSS](https://developer.mozilla.org/es/docs/Learn/
 
 - - - - - -
 
-#### Ahora enfoquémonos en el [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Element) con "[ingeniería inversa](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inversa)"
+**Ahora enfoquémonos en el [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Element) con "[ingeniería inversa](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inversa)**
 
 En la [clase 04](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-04) referimos a 7 trabajos infografías publicadas por el South China Morning Post.La selección se basó en la accesibilidad de sus versiones [impresa](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/) y [digital](https://www.scmp.com/infographic/).
 
