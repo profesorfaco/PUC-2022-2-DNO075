@@ -2,7 +2,7 @@
 
 ### Clase 12 → 24/10/2022
 
-Podemos diferencias distintos tipos de bocetos según su objetivo, el cual determina el cuidado en su oficio. Según [Thomas Valcke](https://sketching4ids.wordpress.com/sketches-classification/), podemos hablar de IDEATION SKETCHES - EXPLORATIVE SKETCHES - EXPLANATORY SKETCHES - PERSUASIVE SKETCHES.
+Podemos diferencias distintos tipos de bocetos según su objetivo, el cual determina el cuidado en su oficio. Según [Thomas Valcke](https://sketching4ids.wordpress.com/sketches-classification/), habría IDEATION SKETCHES, EXPLORATIVE SKETCHES, EXPLANATORY SKETCHES y PERSUASIVE SKETCHES.
 
 El tipo que esperamos que alcancen con su bocetaje es el que coincide con los EXPLANATORY SKETCHES: 
 
