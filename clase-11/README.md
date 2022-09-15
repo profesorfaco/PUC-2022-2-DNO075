@@ -46,7 +46,14 @@ Con un acuerdo sobre un boceto de grupo (al que se puede llegar con una dinámic
 
 > Ya no trabajaremos en repositorios creados en la cuenta personal. Lo que haremos desde esta clase será trabajar en una cuenta de organización: https://docs.github.com/es/organizations
 
-En la cuenta de cada organización, donde cada integrante del grupo debería tener acceso a la administración, se crearán repositorios con nombres que nos permitan ver un avance.
+En la cuenta de cada organización, donde cada integrante del grupo debería tener acceso a la administración, se crearán repositorios con nombres que nos permitan seguir su avance.
+
+Y en el primer repositorio, que deben crear en la clase de hoy, sólo corresponde trabajar con el `README.md`, para tomar apuntes de la investigación sobre temática y sub-temática.
+
+Para poder organizar esos apuntes, conviene aprovechar estas recomendaciones sobre Markdown:
+
+- https://www.markdownguide.org/cheat-sheet/
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 - - - - - - - - 
 
