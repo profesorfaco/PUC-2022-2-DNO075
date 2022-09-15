@@ -1,4 +1,4 @@
-# Ajutes de HTML, SVG y CSS
+# Ajustes de HTML, SVG y CSS
 
 ### Clase 16 → 21/11/2022
 
