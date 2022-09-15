@@ -46,9 +46,9 @@ Con un acuerdo sobre un boceto de grupo (al que se puede llegar con una dinámic
 
 > Ya no trabajaremos en repositorios creados en la cuenta personal. Lo que haremos desde esta clase será trabajar en una cuenta de organización: https://docs.github.com/es/organizations
 
-En la cuenta de cada organización, donde cada integrante del grupo debería tener acceso a la administración, se crearán repositorios con nombres que nos permitan seguir su avance.
+En la cuenta de cada organización, donde cada integrante del grupo debería tener acceso a la administración, se crearán repositorios con nombres que nos permitan seguir su avance desde en las clases 11, [12](https://github.com/profesorfaco/dno075-2022-2/edit/main/clase-12/README.md), ~~13~~, [14](https://github.com/profesorfaco/dno075-2022-2/edit/main/clase-14/README.md), [15](https://github.com/profesorfaco/dno075-2022-2/edit/main/clase-15/README.md), [16](https://github.com/profesorfaco/dno075-2022-2/edit/main/clase-16/README.md), [17](https://github.com/profesorfaco/dno075-2022-2/edit/main/clase-17/README.md).
 
-Y en el primer repositorio, que deben crear en la clase de hoy, sólo corresponde trabajar con el `README.md`, para tomar apuntes de la investigación sobre temática y sub-temática.
+Y en el primer repositorio, que deben crear en la clase de hoy (clase 11), sólo corresponde trabajar con el `README.md`, para tomar apuntes de la investigación grupal sobre temática y sub-temática.
 
 Para poder organizar esos apuntes, conviene aprovechar estas recomendaciones sobre Markdown:
 
