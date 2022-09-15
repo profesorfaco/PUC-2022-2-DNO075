@@ -4,19 +4,24 @@
 
 **A continuación se presentan 10 trabajos desarrollados por estudiantes. Los trabajos se presentan agrupados en TEMÁTICAS, el nombre de cada uno sería la SUBTEMÁTICA**:
 
+ANIMALES AMENAZADOS DE EXTINCIÓN QUE SON PROTEGIDOS EN EL BUINZOO: 
+
+- [Siamang](https://siamang-infografia.github.io/final/)
+- [Hipopótamo pigmeo](https://hipopotamo-pigmeo.github.io/final/)
+
 CARNAVALES SUDAMERICANOS:
 
 - [Carnaval de Oruro](https://orurocarnaval.github.io/Examen/)
 - [Carnaval de Barranquilla](https://carnavaldebarranquilla.github.io/examen/)
 
-ANIMALES AMENAZADOS DE EXTINSIÓN QUE SON PROTEGIDOS EN EL BUINZOO:  
+CONFLICTOS SOCIOAMBIENTALES:
 
-- [Siamang](https://siamang-infografia.github.io/final/)
-- [Hipopótamo pigmeo](https://hipopotamo-pigmeo.github.io/final/)
+- [Parque industrial Quintero y Puchuncaví](https://personas-de-sacrificio.github.io/examen/)
+- [Sequía y el negocio del agua en Petorca](https://paltorcas.github.io/examen/)
 
-FAUNA ENDÉMICA DE CHILE:
+FAUNA ENDÉMICA CHILENA:
 
-- [Aves de Juan Fernández](https://aves-de-juan-fernandez.github.io/Picaflor-Entrega-Final/)
+- [Lagarto Leopardo](https://lagarto-leopardo.github.io/entrega-final/)
 - [Zorro de Chiloé](https://zorrodechiloe-infodigital.github.io/Zorro_de_Chiloe/)
 
 VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE:
@@ -24,10 +29,6 @@ VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE:
 - [Falla San Ramón](https://fallasanramon-infografiadigital.github.io/entrega_final/)
 - [El Riñihuazo](https://infografia-digital.github.io/rinihuazo-final/)
 
-CONFLICTOS SOCIOAMBIENTALES:
-
-- [Parque industrial Quintero y Puchuncaví](https://personas-de-sacrificio.github.io/examen/)
-- [Sequía y el negocio del agua en Petorca](https://paltorcas.github.io/examen/)
 
 **En los 10 trabajos vinculados hay intenciones de acercarse a resultados profesionales tales como los publicados en [SCMP Infographics](https://www.scmp.com/infographic/) o [Reuters Graphics](https://graphics.reuters.com/). Esto es acercarse a resultados de TRABAJOS GRUPALES donde las capacidades individuales se complementan**. 
 
