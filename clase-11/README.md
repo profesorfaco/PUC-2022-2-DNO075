@@ -44,7 +44,7 @@ Con un acuerdo sobre un boceto de grupo (al que se puede llegar con una dinámic
 
 **Al tratarse de un trabajo grupal, haremos un ajuste en el uso de GitHub** 
 
-> Ya no trabajaremos en repositorios creados en la cuenta personal. Lo que haremos desde esta clase será trabajar en una cuenta de organización: https://docs.github.com/es/organizations**
+> Ya no trabajaremos en repositorios creados en la cuenta personal. Lo que haremos desde esta clase será trabajar en una cuenta de organización: https://docs.github.com/es/organizations
 
 En la cuenta de cada organización, donde cada integrante del grupo debería tener acceso a la administración, se crearán repositorios con nombres que nos permitan ver un avance.
 
