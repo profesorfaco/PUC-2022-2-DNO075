@@ -36,7 +36,7 @@ VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE:
 
 A tal convergencia se podría llegar si es que primero el grupo se informa para poder informar. 
 
-Lo segundo sería organizar la información que corresponde presentar mediante una infografía digital en un guión, como *stoy board* de narración linear (ver video del Dr. García entre [37:32 y 38:20](https://youtu.be/iEB3oILm-qQ?t=2252)).
+Lo segundo sería organizar la información que corresponde presentar mediante una infografía digital en un guión, como un *story board* para la redacción linear (ver video del Dr. García entre [37:32 y 38:20](https://youtu.be/iEB3oILm-qQ?t=2252)).
 
 Con un acuerdo sobre el guión, se podría pasar al desarrollo de varios bocetos preliminares que conviene resolver a mano alzada (ver [The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch)).
 
