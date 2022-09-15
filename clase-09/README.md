@@ -8,14 +8,14 @@ En la evaluación de la réplica parcial (individual), se coniderará
 
 | Criterio             | Puntaje máximo |
 |:---------------------|:--------------:|
-| Reservado hasta el 26/09/2022 | 1 |
-| Reservado hasta el 26/09/2022 | 1 |
-| Reservado hasta el 26/09/2022 | 1 |
-| Reservado hasta el 03/10/2022 | 1 |
-| Reservado hasta el 03/10/2022 | 1 |
-| Reservado hasta el 03/10/2022 | 1 |
-| Punto base asignado en [clase 8](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-08) | 1 |
-| TOTAL | 7 |
+| Reservado hasta el 26/09/2022 | 1.0 |
+| Reservado hasta el 26/09/2022 | 1.0 |
+| Reservado hasta el 26/09/2022 | 1.0 |
+| Reservado hasta el 03/10/2022 | 1.0 |
+| Reservado hasta el 03/10/2022 | 1.0 |
+| Reservado hasta el 03/10/2022 | 1.0 |
+| Punto base asignado en [clase 8](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-08) | 1.0 |
+| **TOTAL** | **7.0** |
 
 Con los criterios y puntajes en la pauta, esperamos que sea claro que no pedimos crear ni cambiar las [reglas CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#anatomy_of_a_css_ruleset) incrustadas en documento [index.html](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-09/index.html).
 
