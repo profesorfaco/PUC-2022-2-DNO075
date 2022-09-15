@@ -40,7 +40,7 @@ Lo segundo sería organizar la información a presentar mediante una infografía
 
 Con un acuerdo sobre el esquema de papel, se podría pasar al desarrollo de varios bocetos preliminares que conviene resolver a mano alzada (ver [The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch)).
 
-Con un acuerdo sobre un boceto de grupo (al que se puede llegar aprovechando el flujo de trabajo de un [design studio](https://medium.com/@jc.stories/lean-ux-running-a-design-studio-8c0c94ae69d4)), se podría pasar a la implementación donde corresponde poner en juego las capacidades individuales, tal como pudieron hacer Gloria, Adolfo, Simon y Manas.
+Con un acuerdo sobre un boceto de grupo (al que se puede llegar aprovechando el flujo de trabajo de un [*design studio*](https://medium.com/@jc.stories/lean-ux-running-a-design-studio-8c0c94ae69d4)), se podría pasar a la implementación donde corresponde poner en juego las capacidades individuales, tal como pudieron hacer Gloria, Adolfo, Simon y Manas.
 
 - - - - - - - - 
 
