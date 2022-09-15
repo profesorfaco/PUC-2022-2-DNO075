@@ -88,6 +88,10 @@ Ahora vamos a las **líneas 151 y 152 en el código fuente de [China's wildlife 
 
 - https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/svg/pangolin_phone.svg
 
+En cada SVG se utiliza el elemento [`<image>`](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/image). En tal elemento podemos encontrar un atributo `href` o `xlink:href`, que apunta a la URL de la imagen que se incluye dentro del SVG.
+
+Aunque la imagen que se incluye dentro del SVG dice tener una extensión `*.png`, lo que realmente se puede encontrar en su URL es una `*.webp`, por lo que convendría googlear por un convertidor en línea de [WEBP a PNG](https://cloudconvert.com/webp-to-png), y luego reducir el peso del archivo convertido utilizando [TinyPNG](https://tinypng.com/).  
+
 Sigamos con las **línea 108 y 109 del código fuente de [Bamboo scaffolding in Hong Kong](https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/index.html)**, donde vamos a rescatar otro par de gráficas en SVG:
 
 - https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/svg/plant-d.svg
