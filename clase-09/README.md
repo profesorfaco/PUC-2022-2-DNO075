@@ -2,7 +2,7 @@
 
 ### Clase 09 → 03/10/2022
 
-En esta clase cada estudiante debe completar su réplica parcial y traducción de un trabajo desarrollado por infografistas reconocidos internacionalmente.
+En esta clase cada estudiante debe completar su réplica parcial, traducción e interpretación de un trabajo desarrollado por infografistas reconocidos internacionalmente.
 
 En la evaluación de la réplica parcial (individual), se coniderará
 
