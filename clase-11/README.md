@@ -29,7 +29,7 @@ CONFLICTOS SOCIOAMBIENTALES:
 - [Parque industrial Quintero y Puchuncaví](https://personas-de-sacrificio.github.io/examen/)
 - [Sequía y el negocio del agua en Petorca](https://paltorcas.github.io/examen/)
 
-**En los 10 trabajos vinculados es evidente la intención de acercarse a resultados profesionales tales como los publicados en [SCMP Infographics](https://www.scmp.com/infographic/) o [Reuters Graphics](https://graphics.reuters.com/). Esto es acercarse a resultados de trabajos grupales, donde las capacidades individuales se complementan**. 
+**En los 10 trabajos vinculados es evidente la intención de acercarse a resultados profesionales tales como los publicados en [SCMP Infographics](https://www.scmp.com/infographic/) o [Reuters Graphics](https://graphics.reuters.com/). Esto es acercarse a resultados de trabajos grupales donde las capacidades individuales se complementan**. 
 
 **Veamos un ejemplo de las capacidades de complementadas**: En [Why Arctic fires are releasing more carbon than ever](https://graphics.reuters.com/CLIMATE-CHANGE/WILDFIRE-EMISSIONS/zjvqkrwmnvx/) tenemos a Gloria Dickie escribiendo (*reporting*), mientras [Adolfo Arranz](https://twitter.com/adolfux) pudo encargarse de la gráfica figurativa (a mano alzada), [Simon Scarr](http://www.simonscarr.com/) pudo encargarse de la gráfica no figurativa, y [Manas Sharma](https://www.linkedin.com/in/manas-sharma-69b516179/) pudo aportar al desarrollo de ambas.
 
