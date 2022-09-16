@@ -44,7 +44,7 @@ Con **un acuerdo sobre un boceto de grupo** (al que se puede llegar con una din�
 
 - - - - - - - - - - 
 
-**Por tratarse de un trabajo grupal, haremos un ajuste en el uso de GitHub: Ya no trabajaremos en repositorios creados en cuentas personales. Lo que haremos desde esta clase será trabajar en cuentas de organización: https://docs.github.com/es/organizations**
+**Por tratarse de un trabajo grupal, haremos un ajuste en el uso de GitHub: Ya no trabajaremos en repositorios creados en cuentas personales. Lo que cada grupo hará desde esta clase será trabajar en una cuenta de organización: https://docs.github.com/es/organizations**
 
 En la cuenta de cada organización, donde cada integrante de un grupo debería tener acceso a la administración, se crearán repositorios con nombres que nos permitan seguir su avance en las clases 11, [12](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-12), ~~13~~, [14](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-14), [15](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-15), [16](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-16), [17](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-17).
 
