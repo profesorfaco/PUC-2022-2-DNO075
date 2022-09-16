@@ -23,9 +23,9 @@ Agreguemos a lo que ya se había presentado en la clase recién pasada, que **no
 
 - - - - - - 
 
-Lo que hoy le corresponde resolver a cada grupo es crear un nuevo repositorio en su organización de GitHub para publicar una página y también editar su `README.md`
+Lo que hoy le corresponde resolver a cada grupo es crear un nuevo repositorio en su organización de GitHub para publicar [una página](https://profesorfaco.github.io/dno075-2022-2/clase-12/) y también editar su `README.md`
 
-Esto debe resolverse atendiendo a las instrucciones en la misma página preparada y la siguiente pauta de evaluación
+Esto debe resolverse atendiendo a las instrucciones en la misma [página preparada](https://profesorfaco.github.io/dno075-2022-2/clase-12/) y la siguiente pauta de evaluación
 
 | Criterio             | Puntaje máximo |
 |:---------------------|:--------------:|
