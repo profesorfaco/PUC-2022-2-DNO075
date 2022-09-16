@@ -37,7 +37,7 @@ Esto debe resolverse atendiendo a las instrucciones en la misma [página prepara
 | Reservado hasta el 24/10/2022 | 1.0 |
 | Reservado hasta el 24/10/2022 | 1.0 |
 | Reservado hasta el 24/10/2022 | 1.0 |
-| Punto por colaboración al repositorio de la organización | 1.0 |
+| Punto por colaboraciones al repositorio de la organización | 1.0 |
 | **TOTAL** | **7.0** |
 
 **Serán evaluados sólo los trabajos grupales que estén operativos en línea antes del fin del horario de la clase (12.50 hrs.)** 
