@@ -12,17 +12,11 @@ Con un acuerdo sobre el esquema de papel, **se podría pasar al desarrollo de va
 
 Con **un acuerdo sobre un boceto de grupo** (al que se puede llegar con una dinámica de [*design studio*](https://medium.com/@jc.stories/lean-ux-running-a-design-studio-8c0c94ae69d4)), **se podría pasar a la implementación** donde corresponde poner en juego las capacidades individuales, tal como pudieron hacer Gloria, Adolfo, Simon y Manas.
 
-- - - - - - 
+Agreguemos a lo que ya se había presentado en la clase recién pasada, que nos conviene saber diferencias distintos tipos de bocetos según su objetivo. Según [Thomas Valcke](https://sketching4ids.wordpress.com/sketches-classification/), habría IDEATION SKETCHES, EXPLORATIVE SKETCHES, EXPLANATORY SKETCHES y PERSUASIVE SKETCHES.
 
-Agreguemos a esto que es necesario diferencias distintos tipos de bocetos según su objetivo, el cual determina el cuidado en su oficio. Según [Thomas Valcke](https://sketching4ids.wordpress.com/sketches-classification/), habría IDEATION SKETCHES, EXPLORATIVE SKETCHES, EXPLANATORY SKETCHES y PERSUASIVE SKETCHES.
+El tipo que esperamos que alcancen con su bocetaje grupal es el que coincide con los EXPLANATORY SKETCHES: *They communicate a design in a clear and neutral manner, focusing more on explaining the idea rather than selling it. Explanatory sketches must be readable to other people than those involved in the design process. The first feedback from the client usually happens after reviewing these sketches*.
 
-El tipo que esperamos que alcancen con su bocetaje grupal es el que coincide con los EXPLANATORY SKETCHES: 
-
-> They communicate a design in a clear and neutral manner, focusing more on explaining the idea rather than selling it. Explanatory sketches must be readable to other people than those involved in the design process. The first feedback from the client usually happens after reviewing these sketches.
-
-Mientras que los bocetos previos al grupal (los de cada uno y los de duplas) pueden coincidir con los EXPLORATIVE SKETCHES:
-
-> They are often very rough and do seldom make sense for others than the people directly involved in the design process. Important here is to grasp the overall idea and not to get lost in details.
+Mientras que los bocetos previos al grupal (los de cada uno y los de duplas) pueden coincidir con los EXPLORATIVE SKETCHES: *They are often very rough and do seldom make sense for others than the people directly involved in the design process. Important here is to grasp the overall idea and not to get lost in details*.
 
 - - - - - - 
 
