@@ -14,7 +14,7 @@ Como ya se escribió, a tal convergencia se podría llegar si es que:
 
 4. con **un acuerdo sobre un boceto de grupo** (al que se puede llegar con una dinámica de [*design studio*](https://medium.com/@jc.stories/lean-ux-running-a-design-studio-8c0c94ae69d4)), **se podría pasar a la implementación** donde corresponde poner en juego las capacidades individuales, tal como pudieron hacer Gloria, Adolfo, Simon y Manas.
 
-Agreguemos a lo que ya se había presentado en la clase recién pasada, que **nos conviene diferenciar distintos tipos de bocetos según su objetivo**. Según [Thomas Valcke](https://sketching4ids.wordpress.com/sketches-classification/), habría IDEATION SKETCHES, EXPLORATIVE SKETCHES, EXPLANATORY SKETCHES y PERSUASIVE SKETCHES.
+Agreguemos a lo que ya se había presentado en la clase recién pasada, que **nos conviene diferenciar distintos tipos de bocetos según su objetivo**. [Thomas Valcke](https://sketching4ids.wordpress.com/sketches-classification/) propone diferenciar: IDEATION SKETCHES, EXPLORATIVE SKETCHES, EXPLANATORY SKETCHES y PERSUASIVE SKETCHES.
 
 - El tipo que esperamos que alcancen con su bocetaje grupal es el que coincide con los EXPLANATORY SKETCHES: *They communicate a design in a clear and neutral manner, focusing more on explaining the idea rather than selling it. Explanatory sketches must be readable to other people than those involved in the design process. The first feedback from the client usually happens after reviewing these sketches*.
 
