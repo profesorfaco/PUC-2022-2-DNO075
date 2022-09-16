@@ -16,9 +16,10 @@ Como ya se escribió, a tal convergencia se podría llegar si es que:
 
 Agreguemos a lo que ya se había presentado en la clase recién pasada, que **nos conviene diferenciar distintos tipos de bocetos según su objetivo**. [Thomas Valcke](https://sketching4ids.wordpress.com/sketches-classification/) propone diferenciar: IDEATION SKETCHES, EXPLORATIVE SKETCHES, EXPLANATORY SKETCHES y PERSUASIVE SKETCHES.
 
+- El tipo que esperamos que alcancen con su bocetaje individual es el que coincide con los EXPLORATIVE SKETCHES: *They are often very rough and do seldom make sense for others than the people directly involved in the design process. Important here is to grasp the overall idea and not to get lost in details*.
+
 - El tipo que esperamos que alcancen con su bocetaje grupal es el que coincide con los EXPLANATORY SKETCHES: *They communicate a design in a clear and neutral manner, focusing more on explaining the idea rather than selling it. Explanatory sketches must be readable to other people than those involved in the design process. The first feedback from the client usually happens after reviewing these sketches*.
 
-- Mientras que los bocetos previos al grupal (los de cada uno y los de duplas) pueden coincidir con los EXPLORATIVE SKETCHES: *They are often very rough and do seldom make sense for others than the people directly involved in the design process. Important here is to grasp the overall idea and not to get lost in details*.
 
 - - - - - - 
 
