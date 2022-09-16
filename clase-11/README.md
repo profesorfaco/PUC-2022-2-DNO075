@@ -2,7 +2,7 @@
 
 ###  Clase 11 → 17/10/2022
 
-**A continuación se presentan 10 trabajos desarrollados por estudiantes. Los trabajos se presentan agrupados en TEMÁTICAS, el nombre de cada trabajo es la SUBTEMÁTICA**:
+**A continuación se presentan 10 trabajos desarrollados por estudiantes. Los trabajos están agrupados en TEMÁTICAS, y el nombre de cada trabajo es la SUBTEMÁTICA**:
 
 ANIMALES AMENAZADOS DE EXTINCIÓN QUE SON PROTEGIDOS EN EL BUINZOO: 
 
