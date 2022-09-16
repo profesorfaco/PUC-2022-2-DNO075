@@ -4,23 +4,27 @@
 
 En la clase recién pasada tomamos como referencia la infografía [Why Arctic fires are releasing more carbon than ever](https://graphics.reuters.com/CLIMATE-CHANGE/WILDFIRE-EMISSIONS/zjvqkrwmnvx/), que es resultado del trabajo colaborativo de [Gloria Dickie](https://twitter.com/GloriaDickie), [Adolfo Arranz](https://twitter.com/adolfux), [Simon Scarr](http://www.simonscarr.com/) y [Manas Sharma](https://www.linkedin.com/in/manas-sharma-69b516179/); son las capacidades de 4 personas que convergen en una única pieza que se recorre verticalmente, convergen en un todo de [redacción linear](https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s) que es distinto de la suma de las partes.
 
-Como ya se escribió, a tal convergencia se podría llegar si es que **primero el grupo se informa para poder informar**. 
+Como ya se escribió, a tal convergencia se podría llegar si es que: 
 
-Lo **segundo sería organizar la información a presentar**, para esto se puede crear un esquema de papel tipo *story board* (ver video del Dr. García entre [37:32 y 38:20](https://youtu.be/iEB3oILm-qQ?t=2252)).
+1. **el grupo se informa para poder informar**; 
 
-Con un acuerdo sobre el esquema de papel, **se podría pasar al desarrollo de varios bocetos preliminares** que conviene resolver a mano alzada (ver [The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch)).
+2. **organiza la información a presentar**, para esto se puede crear un esquema de papel tipo *story board* (ver video del Dr. García entre [37:32 y 38:20](https://youtu.be/iEB3oILm-qQ?t=2252));
 
-Con **un acuerdo sobre un boceto de grupo** (al que se puede llegar con una dinámica de [*design studio*](https://medium.com/@jc.stories/lean-ux-running-a-design-studio-8c0c94ae69d4)), **se podría pasar a la implementación** donde corresponde poner en juego las capacidades individuales, tal como pudieron hacer Gloria, Adolfo, Simon y Manas.
+3. con  acuerdo sobre el esquema de papel, **pasa al desarrollo de varios bocetos preliminares** que conviene resolver a mano alzada (ver [The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch)); y luego
+
+4. con **un acuerdo sobre un boceto de grupo** (al que se puede llegar con una dinámica de [*design studio*](https://medium.com/@jc.stories/lean-ux-running-a-design-studio-8c0c94ae69d4)), **se podría pasar a la implementación** donde corresponde poner en juego las capacidades individuales, tal como pudieron hacer Gloria, Adolfo, Simon y Manas.
 
 Agreguemos a lo que ya se había presentado en la clase recién pasada, que **nos conviene saber diferencias distintos tipos de bocetos según su objetivo**. Según [Thomas Valcke](https://sketching4ids.wordpress.com/sketches-classification/), habría IDEATION SKETCHES, EXPLORATIVE SKETCHES, EXPLANATORY SKETCHES y PERSUASIVE SKETCHES.
 
-El tipo que esperamos que alcancen con su bocetaje grupal es el que coincide con los EXPLANATORY SKETCHES: *They communicate a design in a clear and neutral manner, focusing more on explaining the idea rather than selling it. Explanatory sketches must be readable to other people than those involved in the design process. The first feedback from the client usually happens after reviewing these sketches*.
+- El tipo que esperamos que alcancen con su bocetaje grupal es el que coincide con los EXPLANATORY SKETCHES: *They communicate a design in a clear and neutral manner, focusing more on explaining the idea rather than selling it. Explanatory sketches must be readable to other people than those involved in the design process. The first feedback from the client usually happens after reviewing these sketches*.
 
-Mientras que los bocetos previos al grupal (los de cada uno y los de duplas) pueden coincidir con los EXPLORATIVE SKETCHES: *They are often very rough and do seldom make sense for others than the people directly involved in the design process. Important here is to grasp the overall idea and not to get lost in details*.
+- Mientras que los bocetos previos al grupal (los de cada uno y los de duplas) pueden coincidir con los EXPLORATIVE SKETCHES: *They are often very rough and do seldom make sense for others than the people directly involved in the design process. Important here is to grasp the overall idea and not to get lost in details*.
 
 - - - - - - 
 
-Lo que hoy le corresponde resolver a cada grupo es crear un nuevo repositorio en su organización de GitHub para publicar una página y también editar el README.md, atendiendo a las instrucciones en la misma página preparada y la siguiente pauta de evaluación
+Lo que hoy le corresponde resolver a cada grupo es crear un nuevo repositorio en su organización de GitHub para publicar una página y también editar su `README.md`
+
+Esto debe resolverse atendiendo a las instrucciones en la misma página preparada y la siguiente pauta de evaluación
 
 | Criterio             | Puntaje máximo |
 |:---------------------|:--------------:|
