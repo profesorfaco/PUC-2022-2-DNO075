@@ -23,6 +23,8 @@ Agreguemos, a lo que ya se había presentado en la clase recién pasada, que **n
 
 - - - - - - 
 
+Recuerden que ya no trabajaremos en repositorios creados cuentas personales. Desde la clase pasada corresponde trabajar en cuentas de organización: https://docs.github.com/es/organizations
+
 Lo que hoy le corresponde resolver a cada grupo, en un nuevo repositorio en su organización de GitHub, es la publicación de [una página](https://profesorfaco.github.io/dno075-2022-2/clase-12/) y la edición de su `README.md`
 
 Esto debe resolverse atendiendo a las instrucciones en la misma [página preparada](https://profesorfaco.github.io/dno075-2022-2/clase-12/) y la siguiente pauta de evaluación
