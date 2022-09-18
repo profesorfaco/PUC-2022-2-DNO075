@@ -12,7 +12,7 @@ Hoy cerramos el optativo con la cuarta evaluación, que considera:
 | Calidad informativa: Evidencia de un tema bien investigado, desplegado en función del medio digital. | 1 |
 | Redacción linear: Calidad del despliegue narrativo en el que se escribe y se muestra | 1 |
 | Resolución gráfica: Cuidado de los detalles de forma, color, contraste, legibilidad, responsividad y peso de las gráficas. | 1 |
-| Responsividad: La infografía digital se despliega correctamente en smartphone y otros dispositivos. | 1 |
+| Punto base | 1 |
 | TOTAL | 7 |
 
 - - - - - - - - - - -
