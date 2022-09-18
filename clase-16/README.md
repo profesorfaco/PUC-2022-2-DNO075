@@ -2,7 +2,7 @@
 
 ### Clase 16 → 21/11/2022
 
-En esta clase conviene ajustar detalles, avanzando un poco más en lenguajes de descripción (HTML, CSS) y programación (JavaScript).
+En esta clase conviene ajustar detalles de descripción (HTML, CSS) y programación (JavaScript).
 
 Tal avance se ajustará a lo que convenga a la implementación de la infografía digital de cada grupo.
 
