@@ -6,7 +6,7 @@ En la clase de hoy revisaremos la manera en que justifican y resuelven cada grá
 
 Recomendamos: 
 
-- alejarse del [Chart Junk](https://infovis-wiki.net/wiki/Chart_Junk);
+- eliminar el [Chart Junk](https://infovis-wiki.net/wiki/Chart_Junk);
 - cuidarse del [Lie Factor](https://infovis-wiki.net/wiki/Lie_Factor); 
 - confiarse de [la tabla periódica de métodos de visualización](https://www.visual-literacy.org/periodic_table/periodic_table.html) y [el catálogo de visualización de datos](https://datavizcatalogue.com/ES/buscar.html).
 
