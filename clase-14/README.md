@@ -14,7 +14,7 @@ Corresponde considerar que estas gráficas [muestran algo que complementa a un t
 
 > Es un puro Instagram; una imagen con texto. Así es como contamos historias, y es lo que ustedes hacen en el teléfono […] He llegado a este restaurant, mira que hermoso, foto, ahora me acaban de servir un plato de sushi, mira que bien, foto. Escribimos y mostramos.
 
-Es importante que lo escrito también tenga algún avance. Tal avance puede estar publicado en el `README.md` de un nuevo repositorio de la organización: https://docs.github.com/es/organizations
+Es importante que lo escrito también tenga alguna mejora respecto la clase recién pasada. Tal mejora puede estar publicada en el `README.md` de un nuevo repositorio de la organización: https://docs.github.com/es/organizations
 
 El avance de la clase de hoy será considerado en la evaluación Nº4.
 
