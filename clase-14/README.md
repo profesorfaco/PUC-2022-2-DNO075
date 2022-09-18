@@ -10,7 +10,7 @@ Recomendamos:
 - cuidarse del [Lie Factor](https://infovis-wiki.net/wiki/Lie_Factor); 
 - confiarse de [la tabla periódica de métodos de visualización](https://www.visual-literacy.org/periodic_table/periodic_table.html) y [el catálogo de visualización de datos](https://datavizcatalogue.com/ES/buscar.html).
 
-Corresponde considerar que estas gráficas [muestran algo que se explica textualmente](https://youtu.be/iEB3oILm-qQ?t=2023): 
+Corresponde considerar que estas gráficas [muestran algo que complementa a un texto](https://youtu.be/iEB3oILm-qQ?t=2023): 
 
 > Es un puro Instagram; una imagen con texto. Así es como contamos historias, y es lo que ustedes hacen en el teléfono […] He llegado a este restaurant, mira que hermoso, foto, ahora me acaban de servir un plato de sushi, mira que bien, foto. Escribimos y mostramos.
 
