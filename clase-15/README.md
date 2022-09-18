@@ -15,7 +15,7 @@ Para este ajuste conviene considerar que se ha insistido con dos grandes archivo
   - [Hong Kong needs more lifeguards. What does it take to become one?](https://multimedia.scmp.com/news/hong-kong/article/lifeguards/)
   - [World Cup stars and the dark arts of the not-so-beautiful game](https://multimedia.scmp.com/sport/article/world-cup/players-bad-habits/)
 
-También se ha insistido con algunos nombres de infografista (*transformers* actuales):
+También se ha insistido con algunos nombres de infografistas:
 
 - [Adolfo Arranz](https://www.perdigallos.com/)
 - [Marco Hernández](https://mhinfographics.com/)
