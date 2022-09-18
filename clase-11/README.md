@@ -55,6 +55,10 @@ Para poder organizar esos apuntes, conviene aprovechar estas *cheat sheets* de M
 - https://www.markdownguide.org/cheat-sheet/
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+Ideal sería avanzar en la organización de tales apuntes hasta el *knowledge*:
+
+![data to wisdom](https://www.theifactory.com/wp-content/uploads/2019/01/Data-Wisdom.jpg)
+
 - - - - - - - - 
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-09) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-12) 
