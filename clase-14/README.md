@@ -10,6 +10,11 @@ Recomendamos:
 - cuidarse del [Lie Factor](https://infovis-wiki.net/wiki/Lie_Factor); 
 - confiarse de [la tabla periódica de métodos de visualización](https://www.visual-literacy.org/periodic_table/periodic_table.html) y [el catálogo de visualización de datos](https://datavizcatalogue.com/ES/buscar.html).
 
+Corresponde considerar que estas gráficas [muestran algo que se explica textualmente](https://youtu.be/iEB3oILm-qQ?t=2023): 
+
+> Es un puro Instagram; una imagen con texto. Así es como contamos historias, y es lo que ustedes hacen en el teléfono […] He llegado a este restaurant, mira que hermoso, foto, ahora me acaban de servir un plato de sushi, mira que bien, foto. Escribimos y mostramos.
+
+Es importante que lo escrito también tengo algún avance. Tal avance puede estar publicado en el `README.md`.
 
 El avance de la clase de hoy será considerado en la evaluación Nº4.
 
