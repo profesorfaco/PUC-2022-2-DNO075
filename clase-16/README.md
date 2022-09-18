@@ -20,7 +20,7 @@ Lo que conocemos sobre descripción y programación es suficiente para implement
 
 - aprobar un análisis de performance, accesibilidad, buenas prácticas y posicionamiento en buscadores (Search Engine Optimization; SEO) con **[Google Lighthouse](https://blog.interdominios.com/google-lighthouse/)**.
 
-
+El avance de la clase de hoy será considerado en la evaluación Nº4.
 
 - - - - - - - - - - -
 
