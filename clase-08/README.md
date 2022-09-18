@@ -65,13 +65,13 @@ selector {propiedad: valor;}
 
 El lenguaje que incluímos es [CSS](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics#entonces_%C2%BFqu%C3%A9_es_css_realmente). Lenguaje que también puede ser incluido dentro de un [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Element): 
 
-Revisen el código fuente de sus gráficas, y notarán que en las primeras líneas de cada SVG descargado de [RAWGraphs](https://www.rawgraphs.io/) y/o trabajado con Adobe Illustrator también tienen un `<style>…</style>`.
+Revisen el código fuente de sus gráficas, y notarán que en las primeras líneas de cada SVG descargado de [RAWGraphs](https://app.rawgraphs.io/) y/o trabajado con Adobe Illustrator también tienen un `<style>…</style>`.
 
 - - - - - -
 
-**Ahora enfoquémonos en el [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Element) con "[ingeniería inversa](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inversa)**
+**Ahora enfoquémonos en el [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Element) con ["ingeniería inversa"](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inversa)**
 
-En la [clase 04](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-04) referimos a 7 trabajos infografías publicadas por el South China Morning Post.La selección se basó en la accesibilidad de sus versiones [impresa](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/) y [digital](https://www.scmp.com/infographic/).
+En la [clase 04](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-04) referimos a 7 trabajos infografías publicadas por el South China Morning Post. La selección se basó en la accesibilidad de sus versiones [impresa](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/) y [digital](https://www.scmp.com/infographic/).
 
 Aprovechando esta accesibilidad, revisaremos algunas líneas de código fuente:
 
