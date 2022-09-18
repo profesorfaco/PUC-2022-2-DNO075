@@ -2,9 +2,9 @@
 
 ### Clase 15 → 14/11/2022
 
-En la clase de hoy revisaremos la manera en que las gráficas se hacen parte de una narración vertical, adaptándose a distintos tamaños de pantalla.
+En esta clase ajustaremos cada gráfica a su contexto: Una narración vertical, que debe adaptarse a distintos tamaños de pantalla.
 
-Se ha insistido con dos grandes archivos de antecedentes:
+Para este ajuste conviene recordar que se ha insistido con dos grandes archivos de antecedentes:
 
 1. **[Reuters Graphics](https://graphics.reuters.com/)**, donde podrían encontrar:
   - [Zaporizhzhia on the frontline](https://graphics.reuters.com/UKRAINE-CRISIS/ZAPORIZHZHIA/mypmnznjqvr/)
