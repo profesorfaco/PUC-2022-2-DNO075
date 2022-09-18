@@ -58,20 +58,19 @@ Con los criterios y puntajes en la pauta, esperamos que sea claro que no pedimos
 |	20	|	MANUELA MUNCHMEYER MADSEN	|	https://manumunchmeyer.github.io/infodigital-clase-06/	|	5,5	|
 |	21	|	MAGDALENA MUÑOZ GARCÍA	|	https://madumunoz.github.io/infodigital-clase-06/	|	6,8	|
 |	22	|	VALENTINA NÚÑEZ GRANDÓN	|	https://valenunez6.github.io/evaluacion-1/	|	5,3	|
-|	23	|	AMANDA OLIVA BLOISE	|	—	|	—	|
-|	24	|	MACARENA RAMÍREZ EGGELING	|	https://macarenaram.github.io/EvaluacionN1/	|	4,8	|
-|	25	|	DOMINIQUE REZEPKA BITRÁN	|	https://domirezepka.github.io/clase-6/	|	2,5	|
-|	26	|	LAURA RIVERA GUEVARA	|	—	|	—	|
-|	27	|	ISIDORA ROZAS FACUSE	|	https://isidorarozas.github.io/infodigital-clase-06	|	4,5	|
-|	28	|	FERNANDA ROZAS MASSOUD	|	https://fernandarozas.github.io/prueba-infogdigital/	|	4,3	|
-|	29	|	FERNANDA SALDIVIA FRITZ	|	https://fernandasaldivia.github.io/tragediadelosandes/	|	5,3	|
-|	30	|	MARCELA SILVA NAVARRO	|	https://marcela-s.github.io/info-06/	|	6,0	|
-|	31	|	NATALIA VALERA LLAQUE	|	https://nvalerallaque.github.io/evaluacion-01/	|	5,3	|
-|	32	|	CATALINA VALLEJOS INOSTROZA	|	https://cevallejos.github.io/encargo_01/	|	6,3	|
-|	33	|	TERESITA VARAS VELASCO	|	—	|	—	|
-|	34	|	MARÍA JESÚS VIDAL	|	https://mjvidallynch.github.io/infodigital-clase-06/	|	7,0	|
-|	35	|	ROCÍO VILLEGAS GUTIÉRREZ	|	https://rociovillegas25.github.io/prueba01/	|	6,3	|
-|	36	|	VALENTINA WALLER QUEZADA	|	https://valewq.github.io/InfoPrueba1/	|	7,0	|
+|	23	|	MACARENA RAMÍREZ EGGELING	|	https://macarenaram.github.io/EvaluacionN1/	|	4,8	|
+|	24	|	DOMINIQUE REZEPKA BITRÁN	|	https://domirezepka.github.io/clase-6/	|	2,5	|
+|	25	|	LAURA RIVERA GUEVARA	|	—	|	—	|
+|	26	|	ISIDORA ROZAS FACUSE	|	https://isidorarozas.github.io/infodigital-clase-06	|	4,5	|
+|	27	|	FERNANDA ROZAS MASSOUD	|	https://fernandarozas.github.io/prueba-infogdigital/	|	4,3	|
+|	28	|	FERNANDA SALDIVIA FRITZ	|	https://fernandasaldivia.github.io/tragediadelosandes/	|	5,3	|
+|	29	|	MARCELA SILVA NAVARRO	|	https://marcela-s.github.io/info-06/	|	6,0	|
+|	30	|	NATALIA VALERA LLAQUE	|	https://nvalerallaque.github.io/evaluacion-01/	|	5,3	|
+|	31	|	CATALINA VALLEJOS INOSTROZA	|	https://cevallejos.github.io/encargo_01/	|	6,3	|
+|	32	|	TERESITA VARAS VELASCO	|	—	|	—	|
+|	33	|	MARÍA JESÚS VIDAL	|	https://mjvidallynch.github.io/infodigital-clase-06/	|	7,0	|
+|	34	|	ROCÍO VILLEGAS GUTIÉRREZ	|	https://rociovillegas25.github.io/prueba01/	|	6,3	|
+|	35	|	VALENTINA WALLER QUEZADA	|	https://valewq.github.io/InfoPrueba1/	|	7,0	|
 
 - - - - - - - -
 
