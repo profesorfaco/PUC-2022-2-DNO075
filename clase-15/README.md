@@ -4,7 +4,7 @@
 
 En esta clase ajustaremos cada gráfica a su contexto: Una narración vertical, que debe adaptarse a distintos tamaños de pantalla.
 
-Para este ajuste conviene considerar que se ha insistido con dos grandes archivos de antecedentes:
+Para este ajuste conviene considerar que se ha insistido con dos grandes archivos de antecedentes de infografía digital:
 
 1. **[Reuters Graphics](https://graphics.reuters.com/)**, donde podrían encontrar:
   - [Zaporizhzhia on the frontline](https://graphics.reuters.com/UKRAINE-CRISIS/ZAPORIZHZHIA/mypmnznjqvr/)
@@ -15,7 +15,7 @@ Para este ajuste conviene considerar que se ha insistido con dos grandes archivo
   - [Hong Kong needs more lifeguards. What does it take to become one?](https://multimedia.scmp.com/news/hong-kong/article/lifeguards/)
   - [World Cup stars and the dark arts of the not-so-beautiful game](https://multimedia.scmp.com/sport/article/world-cup/players-bad-habits/)
 
-También se ha insistido con algunos nombres:
+También se ha insistido con algunos nombres de infografista (*transformers* actuales):
 
 - [Adolfo Arranz](https://www.perdigallos.com/)
 - [Marco Hernández](https://mhinfographics.com/)
