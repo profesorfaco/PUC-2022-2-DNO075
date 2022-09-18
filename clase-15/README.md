@@ -4,19 +4,28 @@
 
 En la clase de hoy revisaremos la manera en que las gráficas se hacen parte de una narración vertical, adaptándose a distintos tamaños de pantalla.
 
-Conviene recordar que tenemos dos grandes archivos de referencia:
+Conviene recordar que se ha insistido con dos grandes archivos de antecedentes:
 
-1. **[Reuters Graphics](https://graphics.reuters.com/)**
+1. **[Reuters Graphics](https://graphics.reuters.com/)**, donde podrían encontrar:
   - [Zaporizhzhia on the frontline](https://graphics.reuters.com/UKRAINE-CRISIS/ZAPORIZHZHIA/mypmnznjqvr/)
   - [Air attack](https://graphics.reuters.com/CALIFORNIA-WILDFIRE/AIRCRAFT/bdwpkzmyyvm/index.html)
   - [Disaster after takeoff](https://graphics.reuters.com/INDONESIA-CRASH/yzdpxjlrgpx/)
-2. **[SCMP Infographics](https://www.scmp.com/infographic/)**
+2. **[SCMP Infographics](https://www.scmp.com/infographic/)**, donde podrían encontrar:
   - [Chinese herbal tea: history, health and how to make it](https://multimedia.scmp.com/news/hong-kong/article/2162156/herbal-tea/)
   - [Hong Kong needs more lifeguards. What does it take to become one?](https://multimedia.scmp.com/news/hong-kong/article/lifeguards/)
   - [World Cup stars and the dark arts of the not-so-beautiful game](https://multimedia.scmp.com/sport/article/world-cup/players-bad-habits/)
-  
 
-  
+También se ha insistido con algunos nombres:
+
+- [Adolfo Arranz](https://www.perdigallos.com/)
+- [Marco Hernández](https://mhinfographics.com/)
+- [Marcelo Duhalde](https://www.behance.net/marcelodc)
+
+Estas insistencias se pueden conectar con la idea de [la copia como necesaria para aprender](https://www.arteneo.com/blog/copiar/):
+
+> Dejarnos inspirar por el trabajo de otros es admitir la fascinación que éste nos provoca y, en las etapas de aprendizaje, copiar forma parte del proceso de aprender de los demás. Más adelante, copiar como tal dejará de tener sentido. Seguiremos observando todo lo que nos rodea, deteniéndonos en aquello que nos conmueve; apreciándolo y utilizándolo como fuente de inspiración, para crear algo único y original.
+
+
 
 - - - - - - - - - - -
 
