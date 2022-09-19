@@ -16,7 +16,7 @@ Corresponde considerar que estas gráficas [muestran algo que complementa a un t
 
 Es importante que lo escrito también tenga alguna mejora respecto la clase recién pasada. Tal mejora puede estar publicada en el `README.md` de un nuevo repositorio de la organización: https://docs.github.com/es/organizations
 
-El avance de la clase de hoy será considerado en la evaluación Nº4.
+El avance de la clase de hoy será considerado en la [evaluación Nº4](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-17).
 
 - - - - - - - - - - - -
 
