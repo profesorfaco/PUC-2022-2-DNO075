@@ -22,4 +22,30 @@ La entrega se resuelve dejando comentario en Foro que será creado en Canvas par
 
 - - - - - - - 
 
+#### Entregas
+
+La siguiente tabla se organiza según orden de entrega
+
+| ESTUDIANTE(S) | ENTREGA EN LÍNEA |
+|:--------------|:-----------------|
+| MARÍA JESÚS VIDAL LYNCH | https://mjvidallynch.github.io/infodigital-clase-03/ |
+| AMAYA BUTRON & JUAN-PABLO CATALAN | https://juanpablocatalan.github.io/butron-catalan/ |
+| TERESITA VARAS & MARÍA GRACIA HOYL | https://graciahoyl.github.io/entrega-03/ |
+| FERNANDA SALDIVIA & MARCELA SILVA | https://fernandasaldivia.github.io/Encaro-02/ |
+| MAITE MOREIRA & ROCÍO VILLEGAS | https://rociovillegas25.github.io/oficial/ |
+| TRINIDAD JEREZ & FERNANDA ROZAS | https://fernandarozas.github.io/clase-03-infogdigital/ |
+| ISIDORA ROZAS & MAGDALENA MUÑOZ | https://madumunoz.github.io/infodigital-clase-03/ |
+| OLIVIA BACIGALUPO & MANUELA MUNCHMEYER | https://manumunchmeyer.github.io/infodigital-clase-03/ |
+| MACARENA RAMÍREZ & CATALINA CACÉRES | https://macarenaram.github.io/clase-03/ |
+| VALENTINA WALLER | https://valewq.github.io/InfoClase2/ |
+| DOMINIQUE REZEPKA & JAVIERA CASTRO | https://javicastroballadares.github.io/infodigita--03/ |
+| KARINA ANACONA & CATALINA VALLEJOS | https://cevallejos.github.io/infodigital-clase-03/ |
+| JEAN DIMTER & DENNISE FREYMUTH | https://jjdimter.github.io/tarea-clase-3/ |
+| AYLIN BASTÍAS & DAIRYN JORDÁN | https://aylin-b.github.io/info-03/ |
+| CAMILA AZÓCAR & VALENTINA NÚÑEZ | https://camiazocar.github.io/infodigital-clase-03/ | 
+| ISABELA AYLWIN & NATALIA VALERA | https://nvalerallaque.github.io/infodigital-clase03/ |
+| LAURA RIVERA | https://laurariverag.github.io/Info-03/ |
+
+- - - - - - - 
+
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-01) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-04) 
