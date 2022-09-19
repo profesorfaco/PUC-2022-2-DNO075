@@ -57,7 +57,7 @@ Para poder organizar esos apuntes, conviene aprovechar estas *cheat sheets* de M
 
 Ideal sería avanzar en la organización de tales apuntes hasta el *knowledge*:
 
-![data to wisdom](https://www.theifactory.com/wp-content/uploads/2019/01/Data-Wisdom.jpg)
+![data to wisdom](https://dist.neo4j.com/wp-content/uploads/20180918102937/knowledge-insight-wisdom-2.png)
 
 - - - - - - - - 
 
