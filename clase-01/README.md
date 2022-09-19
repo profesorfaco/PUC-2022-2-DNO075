@@ -20,7 +20,7 @@ Entre ambas personas en la dupla, tendrán que buscar imágenes de trabajos de u
 
 - - - - - - - 
 
-#### Entregas
+#### ENTREGAS
 
 La siguiente tabla se organiza con los mejores resultados en los primeros lugares. 
 
