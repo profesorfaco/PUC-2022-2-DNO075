@@ -58,7 +58,7 @@ La entrega se resuelve dejando comentario en Foro que será creado en Canvas par
 
 - - - - - - - 
 
-#### Entregas
+#### ENTREGAS
 
 Los temas de los [trabajos entregados](https://cursos.canvas.uc.cl/courses/50011/discussion_topics/502308?module_item_id=1348296) subdividen la tablas. En cada subdivisión se muestran primero los trabajos mejor logrados.
 
