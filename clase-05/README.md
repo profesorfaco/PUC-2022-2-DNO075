@@ -14,8 +14,8 @@ Las instruccione están contenidas en [la misma página preparada para la práct
 |:--------|:-------------------|
 | VALENTINA WALLER | https://valewq.github.io/InfoClase4/ |
 | MARÍA JESÚS VIDAL | https://mjvidallynch.github.io/infodigital-clase05/ | 
-| KARINA ANACONA & CATALINA VALLEJOS | https://cevallejos.github.io/info-digital-clase05/ |
 | ISIDORA ROZAS & MAGDALENA MUÑOZ | https://madumunoz.github.io/infodigital-clase-05/ |
+| KARINA ANACONA & CATALINA VALLEJOS | https://cevallejos.github.io/info-digital-clase05/ |
 | JEAN DIMTER & DENNISE FREYMUTH | https://jjdimter.github.io/infograf-a-cafe/ |
 | TRINIDAD JEREZ & FERNANDA ROZAS | https://fernandarozas.github.io/clase05/ |
 | OLIVIA BACIGALUPO & MANUELA MUNCHMEYER | https://oliviabm.github.io/info-digital-clase05/ |
