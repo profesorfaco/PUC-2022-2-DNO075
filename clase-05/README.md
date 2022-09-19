@@ -8,6 +8,24 @@ En esta clase no contamos con un documento en Drive, porque iremos directo a la 
 
 - [código fuente](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-05/index.html)
 
+| ESTUDIANTE(S) | INFOGRAFÍA SOBRE EL CAFÉ |
+|:--------|:-------------------|
+| VALENTINA WALLER | https://valewq.github.io/InfoClase4/ |
+| MARÍA JESÚS VIDAL | https://mjvidallynch.github.io/infodigital-clase05/ | 
+| KARINA ANACONA & CATALINA VALLEJOS | https://cevallejos.github.io/info-digital-clase05/ |
+| ISIDORA ROZAS & MAGDALENA MUÑOZ | https://madumunoz.github.io/infodigital-clase-05/ |
+| JEAN DIMTER & DENNISE FREYMUTH | https://jjdimter.github.io/infograf-a-cafe/ |
+| TRINIDAD JEREZ & FERNANDA ROZAS | https://fernandarozas.github.io/clase05/ |
+| OLIVIA BACIGALUPO & MANUELA MUNCHMEYER | https://oliviabm.github.io/info-digital-clase05/ |
+| MACARENA RAMÍREZ & CATALINA CÀCERES | https://catacaceres.github.io/infografia-caf-/ |
+| CAMILA AZÓCAR & VALENTINA NUÑEZ | https://valenunez6.github.io/clase-05/ |
+| JAVIERA CASTRO & DOMINIQUE REZEPKA | https://javicastroballadares.github.io/infograf-a-cafe/ |
+| ROCÍO VILLEGAS & MAITE MOREIRA | https://maitemoreira2022.github.io/trabajo04/ |
+| AYLIN BASTÍAS, FERNANDA SALDIVIA & MARCELA SILVA | https://fernandasaldivia.github.io/E-04/ |
+| TERESITA VARAS & MARIA GRACIA HOYL | https://graciahoyl.github.io/entrega-04/ |
+| PILAR ALEGRE, DAIRYN JORDAN & CONSUELO GÓMEZ | https://consucg.github.io/infodigital-05/ |
+
+
 - - - - - - - - - - 
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-04) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-06) 
