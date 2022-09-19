@@ -12,7 +12,7 @@ Las instrucciones para la práctica están contenidas en [el mismo texto del doc
 
 - - - - - - 
 
-#### Entregas
+#### ENTREGAS
 
 La siguiente tabla se organiza con lo mejores resultados en los primeros lugares.
 
