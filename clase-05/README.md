@@ -19,9 +19,9 @@ La siguiente tabla se organiza con lo mejores resultados en los primeros lugares
 | ESTUDIANTE(S) | INFOGRAFÍA SOBRE EL CAFÉ |
 |:--------|:-------------------|
 | ISIDORA ROZAS & MAGDALENA MUÑOZ | https://madumunoz.github.io/infodigital-clase-05/ |
+| KARINA ANACONA & CATALINA VALLEJOS | https://cevallejos.github.io/info-digital-clase05/ |
 | VALENTINA WALLER | https://valewq.github.io/InfoClase4/ |
 | MARÍA JESÚS VIDAL | https://mjvidallynch.github.io/infodigital-clase05/ | 
-| KARINA ANACONA & CATALINA VALLEJOS | https://cevallejos.github.io/info-digital-clase05/ |
 | JEAN DIMTER & DENNISE FREYMUTH | https://jjdimter.github.io/infograf-a-cafe/ |
 | OLIVIA BACIGALUPO & MANUELA MUNCHMEYER | https://oliviabm.github.io/info-digital-clase05/ |
 | MACARENA RAMÍREZ & CATALINA CÀCERES | https://catacaceres.github.io/infografia-caf-/ |
