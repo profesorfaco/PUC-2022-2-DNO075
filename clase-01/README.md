@@ -22,23 +22,26 @@ Entre ambas personas en la dupla, tendrán que buscar imágenes de trabajos de u
 
 #### Entregas
 
-La siguiente tabla se organiza con lo mejores resultados en los primeros lugares:
+La siguiente tabla se organiza con los mejores resultados en los primeros lugares. 
+
+En los mejores resultados hay buenos textos de presentación para *transformer* e infografista, previo al despliegue de trabajos íntegros (infografías completas; evitan las gráficas aisladas).
+
 
 | Estudiantes | URL         |
 |:------------|:------------|
-| DAIRYN JORDÁN & FERNANDA SALDIVIA | https://fernandasaldivia.github.io/infodigital-clase-01/ |
-| CAMILA AZÓCAR & VALENTINA WALLER | https://valewq.github.io/InfoClase1/ |
-| MAITE MOREIRA & ROCÍO VILLEGAS | https://rociovillegas25.github.io/Trabajo-1/ |
 | AYLIN BASTÍAS & MARCELA SILVA | https://aylin-b.github.io/infodigital-clase-01/ |
 | AMAYA BUTRÓN & ISIDORA ROZAS | https://amayabutron.github.io/Trabajo-1.-Amaya-Butron-Isidora-Rozas/ |
-| JAVIERA CASTRO & DOMINIQUE REZEPKA | https://javicastroballadares.github.io/infodigital-clase-01/ |
-| ANGÉLICA HERNÁNDEZ & MARÍA JESÚS VIDAL | https://mjvidallynch.github.io/infodigital-clase-01/ |
-| ISABELA AYLWIN & NATALIA VALERA | https://nvalerallaque.github.io/infodigital-clase-01/ |
+| DAIRYN JORDÁN & FERNANDA SALDIVIA | https://fernandasaldivia.github.io/infodigital-clase-01/ |
+| CAMILA AZÓCAR & VALENTINA WALLER | https://valewq.github.io/InfoClase1/ |
 | DENNISE FREYMUTH & CECILIA VALDERRAMA | https://dennisff.github.io/trabajo-clase1/ |
+| ANGÉLICA HERNÁNDEZ & MARÍA JESÚS VIDAL | https://mjvidallynch.github.io/infodigital-clase-01/ |
+| MAITE MOREIRA & ROCÍO VILLEGAS | https://rociovillegas25.github.io/Trabajo-1/ |
+| JAVIERA CASTRO & DOMINIQUE REZEPKA | https://javicastroballadares.github.io/infodigital-clase-01/ |
+| ISABELA AYLWIN & NATALIA VALERA | https://nvalerallaque.github.io/infodigital-clase-01/ |
 | KARINA ANACONA & CATALINA VALLEJOS | https://cevallejos.github.io/infodigital-clase-01/ |
 | OLIVIA BACIGALUPO & MANUELA MUNCHMEYER | https://manumunchmeyer.github.io/info-clase-1/ |
-| JEAN DIMTER & MAGDALENA MUÑOZ | https://jjdimter.github.io/tarea-clase-1/ |
 | TRINIDAD JEREZ & FERNANDA ROZAS | https://fernandarozas.github.io/ENCARGO-01/ |
+| JEAN DIMTER & MAGDALENA MUÑOZ | https://jjdimter.github.io/tarea-clase-1/ |
 | JUAN-PABLO CATALÁN & AMANDA OLIVA | https://juanpablocatalan.github.io/catalan-oliva/ |
 | MACARENA RAMÍREZ & CATALINA CACÉRES | https://macarenaram.github.io/clase-01/ |
 | TERESITA VARAS & MARIA GRACIA HOYL | https://graciahoyl.github.io/entrega-01/ |
