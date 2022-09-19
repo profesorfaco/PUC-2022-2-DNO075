@@ -24,26 +24,28 @@ La entrega se resuelve dejando comentario en Foro que será creado en Canvas par
 
 #### Entregas
 
-La siguiente tabla se organiza según [orden de entrega](https://cursos.canvas.uc.cl/courses/50011/discussion_topics/498355?module_item_id=1336703):
+La siguiente tabla se organiza con los mejores resultados en los primeros lugares.
+
+En los mejores resultados se ofrecen ejemplos claros y aislados de gráfica figurativa y mixta, además de una gráfica no figurativa que [funciona muy bien](https://datavizcatalogue.com/ES/buscar.html) para lo que desea mostrar.
 
 | ESTUDIANTE(S) | ENTREGA EN LÍNEA |
 |:--------------|:-----------------|
 | MARÍA JESÚS VIDAL LYNCH | https://mjvidallynch.github.io/infodigital-clase-03/ |
-| AMAYA BUTRON & JUAN-PABLO CATALAN | https://juanpablocatalan.github.io/butron-catalan/ |
-| TERESITA VARAS & MARÍA GRACIA HOYL | https://graciahoyl.github.io/entrega-03/ |
-| FERNANDA SALDIVIA & MARCELA SILVA | https://fernandasaldivia.github.io/Encaro-02/ |
-| MAITE MOREIRA & ROCÍO VILLEGAS | https://rociovillegas25.github.io/oficial/ |
-| TRINIDAD JEREZ & FERNANDA ROZAS | https://fernandarozas.github.io/clase-03-infogdigital/ |
+| AYLIN BASTÍAS & DAIRYN JORDÁN | https://aylin-b.github.io/info-03/ |
+| DOMINIQUE REZEPKA & JAVIERA CASTRO | https://javicastroballadares.github.io/infodigita--03/ |
 | ISIDORA ROZAS & MAGDALENA MUÑOZ | https://madumunoz.github.io/infodigital-clase-03/ |
-| OLIVIA BACIGALUPO & MANUELA MUNCHMEYER | https://manumunchmeyer.github.io/infodigital-clase-03/ |
+| TERESITA VARAS & MARÍA GRACIA HOYL | https://graciahoyl.github.io/entrega-03/ |
+| CAMILA AZÓCAR & VALENTINA NÚÑEZ | https://camiazocar.github.io/infodigital-clase-03/ | 
+| TRINIDAD JEREZ & FERNANDA ROZAS | https://fernandarozas.github.io/clase-03-infogdigital/ |
+| ISABELA AYLWIN & NATALIA VALERA | https://nvalerallaque.github.io/infodigital-clase03/ |
+| AMAYA BUTRON & JUAN-PABLO CATALAN | https://juanpablocatalan.github.io/butron-catalan/ |
 | MACARENA RAMÍREZ & CATALINA CACÉRES | https://macarenaram.github.io/clase-03/ |
 | VALENTINA WALLER | https://valewq.github.io/InfoClase2/ |
-| DOMINIQUE REZEPKA & JAVIERA CASTRO | https://javicastroballadares.github.io/infodigita--03/ |
 | KARINA ANACONA & CATALINA VALLEJOS | https://cevallejos.github.io/infodigital-clase-03/ |
+| MAITE MOREIRA & ROCÍO VILLEGAS | https://rociovillegas25.github.io/oficial/ |
+| FERNANDA SALDIVIA & MARCELA SILVA | https://fernandasaldivia.github.io/Encaro-02/ |
 | JEAN DIMTER & DENNISE FREYMUTH | https://jjdimter.github.io/tarea-clase-3/ |
-| AYLIN BASTÍAS & DAIRYN JORDÁN | https://aylin-b.github.io/info-03/ |
-| CAMILA AZÓCAR & VALENTINA NÚÑEZ | https://camiazocar.github.io/infodigital-clase-03/ | 
-| ISABELA AYLWIN & NATALIA VALERA | https://nvalerallaque.github.io/infodigital-clase03/ |
+| OLIVIA BACIGALUPO & MANUELA MUNCHMEYER | https://manumunchmeyer.github.io/infodigital-clase-03/ |
 | LAURA RIVERA | https://laurariverag.github.io/Info-03/ |
 
 - - - - - - - 
