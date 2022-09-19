@@ -22,6 +22,8 @@ Entre ambas personas en la dupla, tendrán que buscar imágenes de trabajos de u
 
 #### Entregas
 
+La siguiente tabla se organiza con lo mejores resultados en los primeros lugares:
+
 | Estudiantes | URL         |
 |:------------|:------------|
 | DAIRYN JORDÁN & FERNANDA SALDIVIA | https://fernandasaldivia.github.io/infodigital-clase-01/ |
