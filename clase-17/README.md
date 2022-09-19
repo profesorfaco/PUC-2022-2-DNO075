@@ -13,7 +13,7 @@ Hoy cerramos el optativo con la cuarta evaluación, que considera:
 | Redacción linear: Calidad del despliegue narrativo en el que se escribe y se muestra | 1.0 |
 | Resolución gráfica: Cuidado de los detalles de forma, color, contraste, legibilidad, responsividad y peso de las gráficas. | 1.0 |
 | Punto base | 1.0 |
-| TOTAL | 7.0 |
+| **TOTAL** | **7.0** |
 
 - - - - - - - - - - -
 
