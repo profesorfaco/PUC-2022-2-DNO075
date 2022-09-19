@@ -8,6 +8,8 @@ En esta clase no contamos con un documento en Drive, porque iremos directo a la 
 
 - [código fuente](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-05/index.html)
 
+Las instruccione están contenidas en [la misma página preparada para la práctica](https://profesorfaco.github.io/dno075-2022-2/clase-05/), donde encontrarán 3 subtítulos que implican tres ejercicios de escribir y mostrar en una misma infografía: (1) variedades de café, (2) tipos según su origen y (3) principales consumidores de café (en el mundo). 
+
 | ESTUDIANTE(S) | INFOGRAFÍA SOBRE EL CAFÉ |
 |:--------|:-------------------|
 | VALENTINA WALLER | https://valewq.github.io/InfoClase4/ |
