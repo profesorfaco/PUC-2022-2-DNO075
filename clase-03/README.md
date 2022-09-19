@@ -26,7 +26,7 @@ La entrega se resuelve dejando comentario en Foro que será creado en Canvas par
 
 La siguiente tabla se organiza con los mejores resultados en los primeros lugares.
 
-En los mejores resultados se ofrecen ejemplos claros y aislados de gráfica figurativa y mixta, además de una gráfica no figurativa que [funciona muy bien](https://datavizcatalogue.com/ES/buscar.html) para lo que desea mostrar.
+En los mejores resultados se ofrecen ejemplos claros y aislados para gráfica figurativa y gráfica mixta, además de una gráfica no-figurativa que [responde bien a lo que se desea mostrar](https://datavizcatalogue.com/ES/buscar.html).
 
 | ESTUDIANTE(S) | ENTREGA EN LÍNEA |
 |:--------------|:-----------------|
