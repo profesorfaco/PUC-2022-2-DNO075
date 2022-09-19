@@ -8,7 +8,7 @@ En esta clase no contamos con un documento en Drive, porque iremos directo a la 
 
 - [código fuente](https://github.com/profesorfaco/dno075-2022-2/blob/main/clase-05/index.html)
 
-Las instruccione están contenidas en [el texto del documento preparado para la práctica](https://profesorfaco.github.io/dno075-2022-2/clase-05/): El asunto es el café y hay 3 subtítulos que implican tres ejercicios de escribir y mostrar en una misma infografía: (1) variedades de café, (2) tipos según su origen y (3) principales consumidores de café (en el mundo).
+Las instrucciones para la práctica están contenidas en [el mismo texto del documento](https://profesorfaco.github.io/dno075-2022-2/clase-05/): El asunto es el café, y hay 3 subtítulos que implican tres ejercicios de escribir y mostrar en una misma infografía: (1) variedades de café, (2) tipos según su origen y (3) principales consumidores de café (en el mundo).
 
 La siguiente tabla se organiza con lo mejores resultados en los primeros lugares:
 
