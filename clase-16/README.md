@@ -14,11 +14,9 @@ Aunque entendemos que los "efectos especiales" pueden arrebatar o cautivar los s
 
 Lo que hemos revisado sobre descripción y programación puede ser suficiente para implementar una infografía digital que: 
 
-- apruebe una evaluación de accesibilidad con la herramienta que ofrece **[WAVE de WebAIM](https://wave.webaim.org/)**;
+- apruebe un análisis de performance, accesibilidad, buenas prácticas y posicionamiento en buscadores (Search Engine Optimization; SEO) con **[Google Lighthouse](https://blog.interdominios.com/google-lighthouse/)**; y
 
-- apruebe una evaluación de contraste figura/fondo de **[Contrast Checker de WebAIM](https://webaim.org/resources/contrastchecker/)**; la que vendría después de asegurar que el esquema de color sea "colorblind safe" según [Color Brewer 2.0](https://colorbrewer2.org/); y
-
-- apruebe un análisis de performance, accesibilidad, buenas prácticas y posicionamiento en buscadores (Search Engine Optimization; SEO) con **[Google Lighthouse](https://blog.interdominios.com/google-lighthouse/)**.
+- apruebe una evaluación de contraste figura/fondo en gráficas con **[Contrast Checker de WebAIM](https://webaim.org/resources/contrastchecker/)**; la que vendría después de asegurar que el esquema de color sea "colorblind safe" según [Color Brewer 2.0](https://colorbrewer2.org/).
 
 El avance de la clase de hoy será considerado en la [evaluación Nº4](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-17).
 
