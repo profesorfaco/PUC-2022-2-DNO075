@@ -10,6 +10,10 @@ En esta clase no contamos con un documento en Drive, porque iremos directo a la 
 
 Las instrucciones para la práctica están contenidas en [el mismo texto del documento](https://profesorfaco.github.io/dno075-2022-2/clase-05/): El asunto es el café, y hay 3 subtítulos que implican tres ejercicios de escribir y mostrar en una misma infografía: (1) variedades de café, (2) tipos según su origen y (3) principales consumidores de café (en el mundo).
 
+- - - - - - 
+
+#### Resultados
+
 La siguiente tabla se organiza con lo mejores resultados en los primeros lugares:
 
 | ESTUDIANTE(S) | INFOGRAFÍA SOBRE EL CAFÉ |
