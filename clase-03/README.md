@@ -24,7 +24,7 @@ La entrega se resuelve dejando comentario en Foro que será creado en Canvas par
 
 #### Entregas
 
-La siguiente tabla se organiza según orden de entrega
+La siguiente tabla se organiza según [orden de entrega](https://cursos.canvas.uc.cl/courses/50011/discussion_topics/498355?module_item_id=1336703):
 
 | ESTUDIANTE(S) | ENTREGA EN LÍNEA |
 |:--------------|:-----------------|
