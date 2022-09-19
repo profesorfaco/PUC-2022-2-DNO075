@@ -4,7 +4,7 @@
 
 En esta clase cada estudiante debe completar su réplica parcial, traducción e interpretación de un trabajo desarrollado por infografistas reconocidos internacionalmente.
 
-En la evaluación de la réplica parcial (individual), se coniderará
+En la evaluación de la réplica parcial (individual), se considerarán
 
 | Criterio             | Puntaje máximo |
 |:---------------------|:--------------:|
