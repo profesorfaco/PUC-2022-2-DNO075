@@ -20,7 +20,7 @@ No es necesario complicarse, lo más sencillo sobre descripción y programación
 
 - apruebe un análisis de performance, accesibilidad, buenas prácticas y posicionamiento en buscadores (Search Engine Optimization; SEO) con **[Google Lighthouse](https://blog.interdominios.com/google-lighthouse/)**.
 
-El avance de la clase de hoy será considerado en la evaluación Nº4.
+El avance de la clase de hoy será considerado en la [evaluación Nº4](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-17).
 
 - - - - - - - - - - -
 
