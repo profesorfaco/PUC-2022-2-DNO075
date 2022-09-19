@@ -22,7 +22,7 @@ La entrega se resuelve dejando comentario en Foro que será creado en Canvas par
 
 - - - - - - - 
 
-#### Entregas
+#### ENTREGAS
 
 La siguiente tabla se organiza con los mejores resultados en los primeros lugares.
 
