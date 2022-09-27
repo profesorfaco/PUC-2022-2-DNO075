@@ -2,7 +2,7 @@
 
 ### Clase 09 → 03/10/2022
 
-En esta clase cada estudiante debe completar su réplica parcial y traducción de un trabajo desarrollado por infografistas reconocidos internacionalmente.
+En esta clase cada estudiante debe completar su réplica parcial y traducción de un trabajo desarrollado por infografistas profesionales.
 
 Cada réplica parcial (individual) debe aprovecharse del [material ya preparado](https://profesorfaco.github.io/dno075-2022-2/clase-09/), que se contiene en [esta carpeta](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-09).
 
