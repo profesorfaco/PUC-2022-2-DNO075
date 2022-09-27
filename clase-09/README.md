@@ -8,9 +8,9 @@ En la evaluación de la réplica parcial (individual), se considerarán
 
 | Criterio             | Puntaje máximo |
 |:---------------------|:--------------:|
-| Reservado hasta el 26/09/2022 | 1.0 |
-| Reservado hasta el 26/09/2022 | 1.0 |
-| Reservado hasta el 26/09/2022 | 1.0 |
+| Completa el preview de la página en [Meta Tags](https://metatags.io/) con una imagen que prepara al tamaño y peso correspondiente antes de ponerla en línea | 1.0 |
+| Completa el metadato de descripción, obtiene más de 91 puntos en la sección de SEO del reporte de [LightHouse](https://blog.interdominios.com/google-lighthouse/) | 1.0 |
+| Traduce títulos y párrafos al castellano, re-escribiéndolos si fuera necesario para ajustarse a recomendaciones de [redacción en web(https://www.nngroup.com/articles/how-users-read-on-the-web/) | 1.0 |
 | Reservado hasta el 03/10/2022 | 1.0 |
 | Reservado hasta el 03/10/2022 | 1.0 |
 | Reservado hasta el 03/10/2022 | 1.0 |
