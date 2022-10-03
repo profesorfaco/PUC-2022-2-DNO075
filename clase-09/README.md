@@ -13,10 +13,10 @@ Ponga mucha atención a los nombres de carpetas y archivos en cada una. Los nomb
 |:---------------------|:--------------:|
 | Completa el preview de la página en [Meta Tags](https://metatags.io/) con una imagen que prepara al tamaño y peso correspondiente antes de ponerla en línea | 1.0 |
 | Completa el metadato de descripción, obtiene más de 91 puntos en la sección de SEO del reporte de [LightHouse](https://blog.interdominios.com/google-lighthouse/) | 1.0 |
-| Traduce títulos y párrafos al castellano, re-escribiéndolos si fuera necesario para ajustarse a recomendaciones de [redacción en web](https://www.nngroup.com/articles/how-users-read-on-the-web/) | 1.0 |
-| Reservado hasta el 03/10/2022 | 1.0 |
-| Reservado hasta el 03/10/2022 | 1.0 |
-| Reservado hasta el 03/10/2022 | 1.0 |
+| Traduce títulos, párrafos y gráficas al castellano, re-escribiéndolos si fuera necesario para ajustarse a recomendaciones de [redacción en web](https://www.nngroup.com/articles/how-users-read-on-the-web/) | 1.0 |
+| Mantiene el video y despliega cada gráfica correctamente en los distintos tamaños de pantalla. | 1.0 |
+| Deja sólo los archivos usados en su respectiva carpeta de repositorio, y cada uno tiene un peso menor a 200KB gracias al cuidado de tamaño, resolución y compresión de cada archivo | 1.0 |
+| Obtiene más puntos que el original en las dimensiones de "performance" y "accesibility" del reporte de [LightHouse](https://blog.interdominios.com/google-lighthouse/) | 1.0 |
 | Punto base asignado en [clase 8](https://docs.google.com/spreadsheets/d/1ScQ23_tUq4faI4uawpV7RN1teRoEIqTeHcckW3xvkf0/edit?usp=sharing) | 1.0 |
 | **TOTAL** | **7.0** |
 
