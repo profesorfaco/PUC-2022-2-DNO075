@@ -24,6 +24,8 @@ Con los criterios y puntajes en la pauta, esperamos que sea claro que no pedimos
 
 **Serán evaluados sólo los trabajos individuales que estén operativos en línea, por medio de [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site), antes del fin del horario de la clase (12.50 hrs.)** 
 
+**EL REGISTRO DE LO ENTREGADO Y RESPECTIVAS CALIFICACIONES ESTARÁN EN [CLASE-09-DNO075-2022-2--PRUEBA](https://docs.google.com/spreadsheets/d/18rrGulPH_Zsz-tH_lNdi9_Z1gPB-8uVomOJwoeNpwLE/edit?usp=sharing)**
+
 - - - - - - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-08) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-11) 
