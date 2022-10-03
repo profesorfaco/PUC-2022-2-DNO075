@@ -28,7 +28,7 @@ Con los criterios y puntajes en la pauta, esperamos que sea claro que no pedimos
 
 - - - - - - - - 
 
-#### RESULTADOS
+#### EVALUACIONES
 
 |	Nº	|	Nombre	|	URL	|	NOTA	|
 |:-----:|:----------|:---------|:--------:|
