@@ -29,8 +29,9 @@ VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE:
 - [Falla San Ramón](https://fallasanramon-infografiadigital.github.io/entrega_final/)
 - [El Riñihuazo](https://infografia-digital.github.io/rinihuazo-final/)
 
-
 **En los 10 trabajos vinculados hay intenciones de acercarse a resultados profesionales tales como los publicados en [SCMP Infographics](https://www.scmp.com/infographic/) o [Reuters Graphics](https://graphics.reuters.com/). Esto es acercarse a resultados de TRABAJOS GRUPALES donde las capacidades individuales se complementan**. 
+
+- - - - - - - - - - 
 
 **Veamos un ejemplo de las capacidades individuales complementadas**: Detrás de [Why Arctic fires are releasing more carbon than ever](https://graphics.reuters.com/CLIMATE-CHANGE/WILDFIRE-EMISSIONS/zjvqkrwmnvx/) hay 4 personas; tenemos a [Gloria Dickie](https://twitter.com/GloriaDickie) escribiendo algo sobre *Global Climate & Environment*, mientras [Adolfo Arranz](https://twitter.com/adolfux) pudo encargarse de la gráfica figurativa (a mano alzada), [Simon Scarr](http://www.simonscarr.com/) pudo encargarse de la gráfica no figurativa, y [Manas Sharma](https://www.linkedin.com/in/manas-sharma-69b516179/) pudo aportar al desarrollo de ambas. Todas sus capacidades convergen en una única pieza que se recorre verticalmente, convergen en un todo de [redacción linear](https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s) que es distinto de la suma de las partes.
 
@@ -41,6 +42,24 @@ Lo **segundo sería organizar la información a presentar**, para esto se puede 
 Con un acuerdo sobre el esquema de papel, **se podría pasar al desarrollo de varios bocetos preliminares** que conviene resolver a mano alzada (ver [The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch)).
 
 Con **un acuerdo sobre un boceto de grupo** (al que se puede llegar con una dinámica de [*design studio*](https://medium.com/@jc.stories/lean-ux-running-a-design-studio-8c0c94ae69d4)), **se podría pasar a la implementación** donde corresponde poner en juego las capacidades individuales, tal como pudieron hacer Gloria, Adolfo, Simon y Manas.
+
+- - - - - - - - - - 
+
+**Una propuesta de temática para el curso**: 
+
+PROGRAMAS Y CARRERAS ESPACIALES
+
+Aquello podría dividirse en las siguientes subtemáticas: 
+
+- Programa Sputnik (URSS)
+- Programa Vostok (URSS)
+- Programa Mercury (EEUU)
+- Programa Gemini (EEUU)
+- Programa Apolo (EEUU)
+- Programa Shenzhou (China)
+- Programa de Jeff Bezos
+- Programa de Richard Branson
+- Programa de Elon Musk
 
 - - - - - - - - - - 
 
