@@ -26,6 +26,8 @@ Con los criterios y puntajes en la pauta, esperamos que sea claro que no pedimos
 
 **EL REGISTRO DE LO ENTREGADO Y RESPECTIVAS CALIFICACIONES ESTARÁN EN [CLASE-09-DNO075-2022-2--PRUEBA](https://docs.google.com/spreadsheets/d/18rrGulPH_Zsz-tH_lNdi9_Z1gPB-8uVomOJwoeNpwLE/edit?usp=sharing)**
 
+- - - - - - - - 
+
 #### RESULTADOS
 
 |	Nº	|	Nombre	|	URL	|	NOTA	|
