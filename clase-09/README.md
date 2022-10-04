@@ -36,7 +36,7 @@ Con los criterios y puntajes en la pauta, esperamos que sea claro que no pedimos
 |	2	|	KARINA ANACONA TOLOZA	|	https://xnxconx.github.io/Prueba02/	|	7,0	|
 |	3	|	ISABELA AYLWIN REYES	|	https://isabelaaylwin.github.io/evaluacion-n2-infodigital/ |	 6,8	 |
 |	4	|	CAMILA AZÓCAR QUINTEROS	|	https://camiazocar.github.io/clase-09/	|	7,0	|
-|	5	|	OLIVIA BACIGALUPO MORRISON	|	https://oliviabm.github.io/info-digital-prueba01	|	5,8	|
+|	5	|	OLIVIA BACIGALUPO MORRISON	|	https://oliviabm.github.io/info-digital-e02/	|	5,8	|
 |	6	|	AYLIN BASTÍAS VILCHES	|	https://aylin-b.github.io/Godzilla/	|	7,0	|
 |	7	|	AMAYA BUTRON CARRASCO	|	https://amayabutron.github.io/Evaluacion2-InfografiaDigital/	|	6,3	|
 |	8	|	CATALINA CÁCERES GALINDO	|	https://catacaceres.github.io/clase-09/	|	4,8	|
