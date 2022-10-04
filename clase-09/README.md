@@ -59,14 +59,14 @@ Con los criterios y puntajes en la pauta, esperamos que sea claro que no pedimos
 |	25	|	LAURA RIVERA GUEVARA	|	https://laurariverag.github.io/Clase-09/	|	5,5	|
 |	26	|	ISIDORA ROZAS FACUSE	|	https://isidorarozas.github.io/id-clase-09/	|	6,3	|
 |	27	|	FERNANDA ROZAS MASSOUD	|	https://fernandarozas.github.io/clase09/	|	6,0	|
-|	28	|	FERNANDA SALDIVIA FRITZ	|	https://fernandasaldivia.github.io/clase-09/ 	|	6,0	|
+|	28	|	FERNANDA SALDIVIA FRITZ	|	https://fernandasaldivia.github.io/clase-09/ 	|	6,3	|
 |	29	|	MARCELA SILVA NAVARRO	|	https://marcela-s.github.io/info-09/ | 	6,8	|
 |	30	|	NATALIA VALERA LLAQUE	|	https://nvalerallaque.github.io/infodigital-09/	|	2,8	|
 |	31	|	CATALINA VALLEJOS INOSTROZA	|	https://cevallejos.github.io/evaluacion_02/	|	6,5	|
 |	32	|	TERESITA VARAS VELASCO	|	https://teresitavaras.github.io/Evaluacion02/	|	6,3	|
 |	33	|	MARÍA JESÚS VIDAL	|	https://mjvidallynch.github.io/clase-10/	|	7,0	|
 |	34	|	ROCÍO VILLEGAS GUTIÉRREZ	|	https://rociovillegas25.github.io/clase-9/ 	|	5,8	|
-|	35	|	VALENTINA WALLER QUEZADA	|	https://valewq.github.io/InfoPrueba2/ 	|	6,1	|
+|	35	|	VALENTINA WALLER QUEZADA	|	https://valewq.github.io/InfoPrueba2/ 	|	7,0	|
 
 Los datalles para cada califación están en el documento vinculado más arriba.
 
