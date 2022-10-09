@@ -57,9 +57,9 @@ Aquello podría dividirse en las siguientes subtemáticas:
 - Programa Gemini (EEUU)
 - Programa Apolo (EEUU)
 - Programa Shenzhou (China)
-- Programa de Jeff Bezos (Blue Origin)
-- Programa de Richard Branson (Virgin Galactic)
-- Programa de Elon Musk (Space X)
+- Programa Blue Origin (Jeff Bezos)
+- Programa Virgin Galactic (Richard Branson)
+- Programa Space X (Elon Musk)
 
 - - - - - - - - - - 
 
