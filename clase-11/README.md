@@ -104,6 +104,18 @@ Aquello podría dividirse en las siguientes subtemáticas:
 
 **Lo que cada grupo de 4 integrantes hará desde esta clase será trabajar en una cuenta de organización: https://docs.github.com/es/organizations**
 
+| Nº | Subtemática de la organización | Cuenta en GitHub |
+|:----:|:-----------------------------|:-----------------|
+| 1 | Pendiente | Pendiente |
+| 2 | Pendiente | Pendiente |
+| 3 | Pendiente | Pendiente |
+| 4 | Pendiente | Pendiente |
+| 5 | Pendiente | Pendiente |
+| 6 | Pendiente | Pendiente |
+| 7 | Pendiente | Pendiente |
+| 8 | Pendiente | Pendiente |
+
+
 En la cuenta de cada organización, donde cada integrante de un grupo debería tener acceso a la administración, se crearán repositorios con nombres que nos permitan seguir su avance en las clases 11, [12](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-12), ~~13~~, [14](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-14), [15](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-15), [16](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-16), [17](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-17).
 
 En el primer repositorio de la organización, que deben crear en la clase de hoy (clase 11), sólo corresponde trabajar con el `README.md` para publicar apuntes de la investigación grupal sobre temática y sub-temática.
