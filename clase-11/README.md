@@ -63,7 +63,46 @@ Aquello podría dividirse en las siguientes subtemáticas:
 
 - - - - - - - - - - 
 
-**Por tratarse de un trabajo grupal, haremos un ajuste en el uso de GitHub: Ya no trabajaremos en repositorios creados en cuentas personales. Lo que cada grupo hará desde esta clase será trabajar en una cuenta de organización: https://docs.github.com/es/organizations**
+**Por tratarse de un trabajo grupal, haremos un ajuste en el uso de GitHub: Ya no trabajaremos en repositorios creados en cuentas personales**. 
+
+| N°    | Nombre  | Cuenta en GitHub | Correo |
+|:-----:|:--------|:-----------------|:-------|
+| 1 | MARIA DEL PILAR ALEGRE | https://github.com/pilaralegre | mdalegre@uc.cl |
+| 2 | KARINA ANACONA | https://github.com/xnxconx | keanacona@uc.cl |
+| 3 | ISABELA AYLWIN | https://github.com/isabelaaylwin | isabela.aylwin@uc.cl |
+| 4 | CAMILA AZÓCAR | https://github.com/camiazocar | ccazocar@uc.cl |
+| 5 | OLIVIA BACIGALUPO | https://github.com/oliviabm | oliviabm@uc.cl |
+| 6 | AYLIN BASTÍAS | https://github.com/aylin-b | aylin.bastias@uc.cl |
+| 7 | AMAYA BUTRON | https://github.com/amayabutron | amaya.butron@uc.cl |
+| 8 | CATALINA CÁCERES | https://github.com/catacaceres | catalina.cceres@uc.cl |
+| 9 | JAVIERA CASTRO | https://github.com/javicastroballadares | jacastroba@uc.cl |
+| 10 | JUAN-PABLO CATALÁN | https://github.com/juanpablocatalan | juan-pablo.catalan@uc.cl |
+| 11 | JEAN DIMTER | https://github.com/dennisff | jean.dimter@uc.cl |
+| 12 | DENNISE FREYMUTH | https://github.com/consucg | dfreymuth@uc.cl |
+| 13 | CONSUELO GÓMEZ | https://github.com/consucg | consuelo.gmez@uc.cl |
+| 14 | ANTONIETA GONZÁLEZ | — | adgonzalez4@uc.cl |
+| 15 | ANGELICA HERNANDEZ | — | angelica.hernandez@uc.cl |
+| 16 | MARÍA GRACIA HOYL | https://github.com/graciahoyl | graciahoyl@uc.cl |
+| 17 | TRINIDAD JEREZ | https://github.com/trinidadjerez | tjerez2@uc.cl |
+| 18 | DAIRYN JORDÁN | https://github.com/daiichan | dejordan@uc.cl |
+| 19 | MANUELA MUNCHMEYER | https://github.com/manumunchmeyer | manuela.munchmeyer@uc.cl |
+| 20 | MAGDALENA  MUÑOZ | https://github.com/manumunchmeyer | mdmunoz8@uc.cl |
+| 21 | VALENTINA NÚÑEZ | https://github.com/valenunez6 | vnunez1@uc.cl |
+| 22 | MACARENA RAMÍREZ | https://github.com/macarenaram | macarena.ramrez@uc.cl |
+| 23 | DOMINIQUE REZEPKA | https://github.com/laurariverag | dlrezepka@uc.cl |
+| 24 | LAURA RIVERA | https://github.com/laurariverag | lriverg@uc.cl |
+| 25 | ISIDORA ROZAS | https://github.com/isidorarozas | ilrozas@uc.cl |
+| 26 | FERNANDA ROZAS | https://github.com/fernandarozas | fernanda.rozas@uc.cl |
+| 27 | FERNANDA SALDIVIA | https://github.com/fernandasaldivia | fernanda.saldivia@uc.cl |
+| 28 | MARCELA SILVA | https://github.com/marcela-s | msilvn@uc.cl |
+| 29 | NATALIA VALERA | https://github.com/nvalerallaque | natalia.valera@uc.cl |
+| 30 | CATALINA VALLEJOS | https://github.com/cevallejos | cevallejos@uc.cl |
+| 31 | TERESITA VARAS | https://github.com/teresitavaras | teresitavaras@uc.cl |
+| 32 | MARÍA JESÚS VIDAL | https://github.com/mjvidallynch | mjvidallynch@uc.cl |
+| 33 | ROCÍO VILLEGAS | https://github.com/rociovillegas25 | rocio.villegas@uc.cl |
+| 34 | VALENTINA WALLER | https://github.com/valewq | valentina.waller@uc.cl |
+
+**Lo que cada grupo de 4 integrantes hará desde esta clase será trabajar en una cuenta de organización: https://docs.github.com/es/organizations**
 
 En la cuenta de cada organización, donde cada integrante de un grupo debería tener acceso a la administración, se crearán repositorios con nombres que nos permitan seguir su avance en las clases 11, [12](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-12), ~~13~~, [14](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-14), [15](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-15), [16](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-16), [17](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-17).
 
