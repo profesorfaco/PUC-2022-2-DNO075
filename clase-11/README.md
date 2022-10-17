@@ -123,6 +123,7 @@ Para poder organizar esos apuntes, conviene aprovechar estas *cheat sheets* de M
 
 - https://www.markdownguide.org/cheat-sheet/
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- https://gist.github.com/rxaviers/7360908
 
 Ideal sería avanzar en la organización de tales apuntes hasta el *knowledge*:
 
