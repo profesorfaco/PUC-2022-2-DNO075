@@ -54,6 +54,8 @@ Se les recomienda leer las instrucciones en la misma [página ya preparada](http
 
 **Serán evaluados sólo los trabajos grupales que estén operativos en línea antes del fin del horario de la clase (12.50 hrs.)** 
 
+Si el grupo obtiene la máxima calificación, podrá pasar a la implementación donde corresponde poner en juego las capacidades individuales, tal como pudieron hacer Gloria, Adolfo, Simon y Manas. Si es que obtienen otras calificaciones: Habría que conversar, y después de tal conversación podrían pasar a la implementación.
+
 - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-11) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-2/tree/main/clase-14) 
