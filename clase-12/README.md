@@ -37,7 +37,7 @@ Recuerden que ya no trabajaremos en repositorios creados en cuentas personales. 
 | 8 | [Virgin Galactic](https://github.com/Programa-Virgin-Galactic) | Amaya Butrón, Juan-Pablo Catalán, María Gracia Hoyl, Teresita Varas | 
 
 
-Y en un nuevo repositorio de organización deben publicar "la prueba" de hoy, que parte aprovechándose de [esta página ya preparada](https://profesorfaco.github.io/dno075-2022-2/clase-12/).
+**Y en un nuevo repositorio de organización deben publicar la prueba de hoy, que parte aprovechándose de [esta página ya preparada](https://profesorfaco.github.io/dno075-2022-2/clase-12/)**.
 
 Se les recomienda leer las instrucciones en la misma [página ya preparada](https://profesorfaco.github.io/dno075-2022-2/clase-12/) y la siguiente pauta de evaluación:
 
