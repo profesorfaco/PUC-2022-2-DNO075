@@ -32,7 +32,7 @@ Esto debe resolverse atendiendo a las instrucciones en la misma [página prepara
 | Criterio             | Puntaje máximo |
 |:---------------------|:--------------:|
 | Repositorio de la organización: Debe tener su avatar (0,25), nombre y descripción (0,25), y sus 4 integrantes a la vista (0,25). Además, cada integrante ya es follower de la organización (0,25) | 1.0 |
-| Avance del cuarteto en el README.md de la clase 11 (se repetirá puntaje que obtenga por lo que alcancen a modificar hasta las 23.59 hrs. del lunes 17 de octubre) | 1.0 |
+| Avance del cuarteto en el README.md de la clase 11: Se repetirá puntaje que obtenga por lo que alcancen a modificar hasta las 23.59 hrs. del lunes 17 de octubre | 1.0 |
 | Reservado hasta el 24/10/2022 | 1.0 |
 | Reservado hasta el 24/10/2022 | 1.0 |
 | Reservado hasta el 24/10/2022 | 1.0 |
