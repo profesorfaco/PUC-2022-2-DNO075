@@ -33,10 +33,10 @@ Esto debe resolverse atendiendo a las instrucciones en la misma [página prepara
 |:---------------------|:--------------:|
 | Repositorio de la organización: Debe tener su avatar (0,25), nombre y descripción (0,25), y sus 4 integrantes a la vista (0,25). Además, cada integrante ya es follower de la organización (0,25) | 1.0 |
 | Avance del cuarteto en el [README.md de la clase 11](https://docs.google.com/spreadsheets/d/17cxDrIpKTU8JZrXbbQH6Rw84CJAK54SU4KHOoTcjVhY/edit?usp=sharing): Se repetirá puntaje que obtenga por lo que alcancen a modificar hasta las 23.59 hrs. del lunes 17 de octubre | 1.0 |
-| Reservado hasta el 24/10/2022 | 1.0 |
-| Reservado hasta el 24/10/2022 | 1.0 |
-| Reservado hasta el 24/10/2022 | 1.0 |
-| Reservado hasta el 24/10/2022 | 1.0 |
+| Reservado hasta el 24/10/2022 (adelantamos que tendrá relación con el storyboard) | 1.0 |
+| Reservado hasta el 24/10/2022 (adelantamos que tendrá relación con los 4 bocetos) | 1.0 |
+| Reservado hasta el 24/10/2022 (adelantamos que tendrá relación con los 2 bocetos) | 1.0 |
+| Reservado hasta el 24/10/2022 (adelantamos que tendrá relación con el boceto final de grupo) | 1.0 |
 | Punto base | 1.0 |
 | **TOTAL** | **7.0** |
 
