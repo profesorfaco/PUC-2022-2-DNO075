@@ -43,7 +43,7 @@ Se les recomienda leer las instrucciones en la misma [página ya preparada](http
 
 | Criterio             | Puntaje máximo |
 |:---------------------|:--------------:|
-| Repositorio de la organización: Debe tener su avatar (0,25), nombre y descripción (0,25), y sus 4 integrantes a la vista (0,25), cada una/o bien identificable gracias a nombre y/o avatar editado (0,25) | 1.0 |
+| Cuenta de la organización: Debe tener su avatar (0,25), nombre y descripción (0,25), y sus 4 integrantes a la vista (0,25), cada una/o bien identificable gracias a nombre y/o avatar personal editado (0,25) | 1.0 |
 | Avance en el [README.md de la clase 11](https://docs.google.com/spreadsheets/d/17cxDrIpKTU8JZrXbbQH6Rw84CJAK54SU4KHOoTcjVhY/edit?usp=sharing): Se repetirá el puntaje que cada grupo obtenga por lo que alcancen a modificar antes de las 23.59 hrs. del lunes 17 de octubre | 1.0 |
 | Reservado hasta el 24/10/2022 (adelantamos que tendrá relación con el storyboard) | 1.0 |
 | Reservado hasta el 24/10/2022 (adelantamos que tendrá relación con los 4 bocetos) | 1.0 |
