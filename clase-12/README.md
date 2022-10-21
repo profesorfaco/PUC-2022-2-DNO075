@@ -32,7 +32,7 @@ Recuerden que ya no trabajaremos en repositorios creados en cuentas personales. 
 | 3 | [Space X](https://github.com/Space-X-Elon-Musk) | Isidora Rozas, Valentina Waller, Magdalena Muñoz, María Jesús Vidal |
 | 4 | [Blue Origin]( https://github.com/Blue-Jeff-Bezos) | Fernanda Rozas, Trinidad Jerez, Isabela Aylwin, Rocío Villegas |
 | 5 | [Sputnik](https://github.com/SateliteSputnik) | Aylin Bastías, Dairyn Jordán, Fernanda Saldivia, Marcela Silva |
-| 6 | [Mercury](https://github.com/ProyectoMercury) | Natalia Valera, Pilar Alegre, Consuelo Gómez |
+| 6 | [Mercury](https://github.com/ProyectoMercury) | Natalia Valera, Pilar Alegre, Consuelo Gómez, Laura Rivera |
 | 7 | [Vostok](https://github.com/ProgramaVostok) | Catalina Cáceres, Macarena Ramírez, Olivia Bacigalupo, Manuela Munchmeyer |
 | 8 | [Virgin Galactic](https://github.com/Programa-Virgin-Galactic) | Amaya Butrón, Juan-Pablo Catalán, María Gracia Hoyl, Teresita Varas | 
 
