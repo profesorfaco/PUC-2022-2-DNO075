@@ -43,13 +43,13 @@ Se les recomienda leer las instrucciones en la misma [página ya preparada](http
 
 | Criterio             | Puntaje máximo |
 |:---------------------|:--------------:|
-| Cuenta de la organización: Debe tener su avatar (0,25), nombre y descripción (0,25), y sus 4 integrantes a la vista (0,25), cada una/o bien identificable gracias a nombre y/o avatar personal editado (0,25) | 1.0 |
-| Avance en el [README.md de la clase 11](https://docs.google.com/spreadsheets/d/17cxDrIpKTU8JZrXbbQH6Rw84CJAK54SU4KHOoTcjVhY/edit?usp=sharing): Se repetirá el puntaje que cada grupo obtenga por lo que alcancen a modificar antes de las 23.59 hrs. del lunes 17 de octubre | 1.0 |
-| Reservado hasta el 24/10/2022 (adelantamos que tendrá relación con el storyboard) | 1.0 |
-| Reservado hasta el 24/10/2022 (adelantamos que tendrá relación con los 4 bocetos) | 1.0 |
-| Reservado hasta el 24/10/2022 (adelantamos que tendrá relación con los 2 bocetos) | 1.0 |
-| Reservado hasta el 24/10/2022 (adelantamos que tendrá relación con el boceto final de grupo) | 1.0 |
-| Punto base | 1.0 |
+| **Cuenta de la organización**: Debe tener su avatar (0,25), nombre y descripción (0,25), y sus 4 integrantes a la vista (0,25), cada una/o bien identificable gracias a nombre y/o avatar personal editado (0,25) | 1.0 |
+| **Avance en el [README.md de la clase 11](https://docs.google.com/spreadsheets/d/17cxDrIpKTU8JZrXbbQH6Rw84CJAK54SU4KHOoTcjVhY/edit?usp=sharing)**: Se repetirá el puntaje que cada grupo obtenga por lo que alcancen a modificar antes de las 23.59 hrs. del lunes 17 de octubre | 1.0 |
+| **Storyboard**: Toman "al pie de la letra" la indicación que el Dr. García presenta en el video ya varias veces compartido (entre [37:32 y 38:20](https://youtu.be/iEB3oILm-qQ?t=2252)) | 1.0 |
+| **4 bocetos**: Son 4 [EXPLORATIVE SKETCHES](https://sketching4ids.wordpress.com/sketches-classification/) –*They are often very rough and do seldom make sense for others than the people directly involved in the design process*–, estos ofrecen alternativas suficientemente divergentes para el desarrollo de un mismo storyboard. | 1.0 |
+| **2 bocetos**: Son 2 [EXPLORATIVE SKETCHES](https://sketching4ids.wordpress.com/sketches-classification/) –*They are often very rough and do seldom make sense for others than the people directly involved in the design process*–, ambos ofrecen la convergencia efectiva de un par de alternativas ya desarrolladas, sin caer en un collage tipo "consenso de buena onda". | 1.0 |
+| **1 boceto final de grupo**: Es un [EXPLANATORY SKETCH](https://sketching4ids.wordpress.com/sketches-classification/) —*Explanatory sketches must be readable to other people then those involved in the design process. The first feedback from the client usualy happens after reviewing these sketches*—, este resulta de la convergencia de todas las alternativas, sin caer en un collage tipo "consenso de buena onda" | 1.0 |
+| **Punto base** | 1.0 |
 | **TOTAL** | **7.0** |
 
 **Serán evaluados sólo los trabajos grupales que estén operativos en línea antes del fin del horario de la clase (12.50 hrs.)** 
