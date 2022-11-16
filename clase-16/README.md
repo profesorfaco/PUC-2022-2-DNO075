@@ -12,7 +12,7 @@ Aunque entendemos que los "efectos especiales" pueden arrebatar o cautivar los s
 
 - lo que se necesita para programar "efectos especiales" podría quedar lejos de expectativas realistas para este curso de un semestre en diseño (por favor revise los prerequisitos en cursos de programación para estudiantes de ingeniería; noten, por ejemplo, que [Tecnologías y Aplicaciones Web](https://catalogo.uc.cl/index.php?tmpl=component&option=com_catalogo&view=requisitos&sigla=IIC2513) se puede cursar después de aprobar [Bases de datos](https://catalogo.uc.cl/index.php?tmpl=component&option=com_catalogo&view=requisitos&sigla=IIC2413), que se puede cursar después de aprobar [Programación avanzada](https://catalogo.uc.cl/index.php?tmpl=component&option=com_catalogo&view=requisitos&sigla=IIC2233), que se puede cursar después de aprobar [Introducción a la Programación](https://catalogo.uc.cl/index.php?tmpl=component&option=com_catalogo&view=requisitos&sigla=IIC1103))
 
-Lo que hemos revisado sobre descripción y programación, además de la ayuda con los "templates" puede ser suficiente para implementar una infografía digital que: 
+Lo que hemos revisado sobre descripción y programación, además de la ayuda con los "templates", puede ser suficiente para implementar una infografía digital que: 
 
 - apruebe un análisis de performance, accesibilidad, buenas prácticas y posicionamiento en buscadores (Search Engine Optimization; SEO) con **[Google Lighthouse](https://blog.interdominios.com/google-lighthouse/)**; y
 
