@@ -4,6 +4,8 @@
 
 En esta clase conviene ajustar detalles de descripción (HTML, CSS) y programación (JavaScript).
 
+El primer detalle por ajustar es la manera en que la "vamos a buscar" los SVG: Si usaron `<img>`, habría que cambiar al uso de `<object></object>`.
+
 Se ajustará lo que convenga a la implementación de la infografía digital de cada grupo. 
 
 Aunque entendemos que los "efectos especiales" pueden arrebatar o cautivar los sentidos, no nos entramparemos en ellos porque: 
