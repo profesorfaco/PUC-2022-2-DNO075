@@ -2,7 +2,11 @@
 
 ###  Clase 17 → 28/11/2022
 
-Hoy cerramos el optativo con la cuarta evaluación, que considera:
+**Hoy cerramos el optativo con la cuarta evaluación**.
+
+Antes de revisar detalles en la pauta, hagamos los últimos ajustes en cada infografía aprovechando el [resumen.html](https://profesorfaco.github.io/dno075-2022-2/clase-17/resumen.html) preparado para homologar y vincular el resultado del trabajo de los distintos grupos de trabajo. 
+
+Una vez realicen los cambios que se indican y comprobar que funcionen correctamente, podríams pasar a la revisión con atención a la siguiente pauta:
 
 | Criterio | Puntaje máximo |
 |:---------|:---------------:|
