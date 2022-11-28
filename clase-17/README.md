@@ -13,7 +13,6 @@ Antes de revisar detalles en la pauta, hagamos los últimos ajustes en cada info
 - https://space-x-elon-musk.github.io/infografia-digital/
 - https://programa-virgin-galactic.github.io/infografia-digital/
 - https://new-shepard-blueorigin.github.io/infografia-digital/
-- https://new-shepard-blueorigin.github.io/infografia-digital/
 - https://taikonautas.github.io/infografia-digital/
 
 Una vez realicen los cambios que se indican y comprobar que funcionen correctamente, podríams pasar a la revisión con atención a la siguiente pauta:
