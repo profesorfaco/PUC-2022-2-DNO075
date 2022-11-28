@@ -4,7 +4,17 @@
 
 **Hoy cerramos el optativo con la cuarta evaluación**.
 
-Antes de revisar detalles en la pauta, hagamos los últimos ajustes en cada infografía aprovechando el [resumen.html](https://profesorfaco.github.io/dno075-2022-2/clase-17/resumen.html) preparado para homologar y vincular los resultados del trabajo de los distintos grupos. 
+Antes de revisar detalles en la pauta, hagamos los últimos ajustes en cada infografía aprovechando el [resumen.html](https://profesorfaco.github.io/dno075-2022-2/clase-17/resumen.html) preparado para homologar y vincular los resultados del trabajo de los distintos grupos:
+
+- https://misiones-sputnik.github.io/infografia-digital/
+- https://programavostok.github.io/infografia-digital/
+- https://proyectomercury.github.io/infografia-digital/
+- https://programa-apolo.github.io/infografia-digital/
+- https://space-x-elon-musk.github.io/infografia-digital/
+- https://programa-virgin-galactic.github.io/infografia-digital/
+- https://new-shepard-blueorigin.github.io/infografia-digital/
+- https://new-shepard-blueorigin.github.io/infografia-digital/
+- https://taikonautas.github.io/infografia-digital/
 
 Una vez realicen los cambios que se indican y comprobar que funcionen correctamente, podríams pasar a la revisión con atención a la siguiente pauta:
 
