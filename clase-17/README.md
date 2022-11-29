@@ -6,14 +6,16 @@
 
 Antes de revisar detalles en la pauta, hagamos los últimos ajustes en cada infografía aprovechando el [resumen.html](https://profesorfaco.github.io/dno075-2022-2/clase-17/resumen.html) preparado para homologar y vincular los resultados del trabajo de los distintos grupos:
 
-- https://misiones-sputnik.github.io/infografia-digital/
-- https://programavostok.github.io/infografia-digital/
-- https://proyectomercury.github.io/infografia-digital/
-- https://programa-apolo.github.io/infografia-digital/
-- https://space-x-elon-musk.github.io/infografia-digital/
-- https://programa-virgin-galactic.github.io/infografia-digital/
-- https://new-shepard-blueorigin.github.io/infografia-digital/
-- https://taikonautas.github.io/infografia-digital/
+| Página | Repositorio |
+|:-------------|:------------|
+| https://misiones-sputnik.github.io/infografia-digital/ | https://github.com/misiones-sputnik/infografia-digital/ | 
+| https://programavostok.github.io/infografia-digital/ | https://github.com/programavostok/infografia-digital/ |
+| https://proyectomercury.github.io/infografia-digital/ | https://github.com/proyectomercury/infografia-digital/ |
+| https://programa-apolo.github.io/infografia-digital/ | https://github.com/programa-apolo/infografia-digital/ |
+| https://space-x-elon-musk.github.io/infografia-digital/ | https://github.com/space-x-elon-musk/infografia-digital/ | 
+| https://programa-virgin-galactic.github.io/infografia-digital/ | https://github.com/programa-virgin-galactic/infografia-digital/ | 
+| https://new-shepard-blueorigin.github.io/infografia-digital/ | https://github.com/new-shepard-blueorigin/infografia-digital/ |
+| https://taikonautas.github.io/infografia-digital/ | https://github.com/taikonautas/infografia-digital/ |
 
 Una vez realicen los cambios que se indican y comprobar que funcionen correctamente, podríams pasar a la revisión con atención a la siguiente pauta:
 
